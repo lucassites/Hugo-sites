@@ -1,4 +1,4 @@
-{{ if ne .Params.comments true}}
+{{ if ne .Params.comments false}}
 {{ if .Site.DisqusShortname }}
 <div id="disqus_thread"></div>
 <script>
@@ -18,6 +18,6 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Por favor habilite o JavaScript para ver o <a href="https://disqus.com/?ref_noscript">comentários por: Disqus.</a></noscript>
 
 {{ end }}{{ end }}
