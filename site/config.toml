@@ -3,4 +3,5 @@ languageCode = "pt-br"
 title = "7do2"
 [permalinks]
   post = "/:title"
+  disqusShortname = "blog-chrisstayte"
 
