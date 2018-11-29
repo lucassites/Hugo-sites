@@ -5,15 +5,22 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+  - name: "Artigo" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Artigo" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
