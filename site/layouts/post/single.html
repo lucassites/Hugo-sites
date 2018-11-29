@@ -10,34 +10,6 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-      
-      script.
-            window.fbAsyncInit = function() {
-            FB.init({
-                appId      : '1519238171626381',
-                xfbml      : true,
-                version    : 'v2.1'
-            });
-            };
-
-            (function(d, s, id){
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) {return;}
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/en_US/sdk.js";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-
-    block content
-
-
-    include footer
-    if(locals.single && locals.single == true)
-        script.
-            var facebookComments = $(".fb-comments");
-            var facebookLikes = $('.fb-like');
-            facebookLikes.attr("data-href", window.location.href);
-            facebookComments.attr("data-href", window.location.href);
     </div>
   </div>
 {{ end }}
