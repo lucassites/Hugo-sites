@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "{{ .Permalink }}"
 languageCode = "pt-br"
 title = "7do2"
 [permalinks]
-  post = "/:title/"
+  post = "/:title"
 
