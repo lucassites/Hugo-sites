@@ -37,6 +37,8 @@
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     {{ range .Params.categories }}<meta property="article:section" content="{{ . }}" />{{ end }}
     {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ time .Date }}" />{{ end }}
+    {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />{{ end }}
+{{ else }
     
     <!-- JSON-LD -->
     {{ if .IsHome }}
