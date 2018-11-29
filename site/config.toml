@@ -1,4 +1,4 @@
-baseurl = "{{ .Permalink }}"
+baseurl = "/"
 languageCode = "pt-br"
 title = "7do2"
 [permalinks]
