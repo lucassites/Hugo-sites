@@ -13,5 +13,7 @@
     </div>
   </div>
   </article>
-{{ partial "disqus.html" . }}
+ footer
+      = include partials/timeline.html .
+      {{ partial "disqus.html" . }}
 {{ end }}
