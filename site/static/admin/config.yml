@@ -17,7 +17,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Author, name: author, widget: hidden, default: Chris Stayte}
       - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
-      - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
