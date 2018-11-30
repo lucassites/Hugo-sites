@@ -8,8 +8,8 @@ description: >-
 tags:
   - Café
   - bebida
-image: /img/café.png
 comments: true
+image: /img/café.png
 share: false
 ---
 
