@@ -5,8 +5,3 @@ title = "7do2"
   post = "/:title"
   # Nome Disqus
   disqusShortname = "7do2"
-[staticman]
-  endpoint = "https://api.staticman.net/v2/entry/"
-  username = "lucassites"
-  repository = "Hugo-sites"
-  branch = "master"
