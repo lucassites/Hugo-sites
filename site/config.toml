@@ -5,9 +5,3 @@ title = "7do2"
   post = "/:title"
   # Nome Disqus
   disqusShortname = "7do2"
-# Add the following new Table somewhere under the params table
-  [params.staticman]
-  endpoint = "https://api.staticman.net/v2/entry"
-  username = "7do2"
-  repository = "Hugo-sites"
-  branch = "master"
