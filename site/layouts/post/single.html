@@ -14,10 +14,21 @@
   </div>
   </article>
 <div class="disqus">
- {{ $comments_enabled := and $.Site.DisqusShortname (not (or $.Site.Params.disable_comments $.Params.disable_comments)) }}
-  {{ if and $comments_enabled ($.Site.Params.comment_count | default true) }}
-  <span class="middot-divider"></span>
-  <a href="{{ $.Permalink }}#disqus_thread"><!-- Count will be inserted here --></a>
-  {{ end}}
+ {{- if .Site.Params.staticman -}}
+    &nbsp;|&nbsp;<i class="fas fa-comment"></i>&nbsp;
+    {{ $slug := replace .URL "/" "" }}
+    {{ if .Site.Data.comments }}
+      {{ $comments := index $.Site.Data.comments $slug }}
+      {{ if $comments }}
+        {{ if gt (len $comments) 1  }}
+          {{ len $comments  }} {{ i18n "moreComment" }}
+        {{ else }}
+          {{ len $comments  }} {{ i18n "oneComment" }}
+        {{ end }}
+      {{ else }}
+        0 {{ i18n "oneComment" }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
 </div>
 {{ end }}
