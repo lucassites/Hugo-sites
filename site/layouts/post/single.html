@@ -14,5 +14,6 @@
   </div>
   </article>
 <div class="disqus">
+  {% if commentsClosed != true %} {% include "comment-form.njk" -%} {% else %}
 </div>
 {{ end }}
