@@ -11,8 +11,11 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
-    {{ partial "post-comments" . }}
   </div>
   </article>
+  <section class="post-content">
+    {{ .Content }}
+  </section>
 
+  {{ partial "contribute-post" . }}
 {{ end }}
