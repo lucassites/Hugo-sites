@@ -9,5 +9,5 @@ title = "7do2"
   [params.staticman]
   endpoint = "https://api.staticman.net/v2/entry"
   username = "7do2"
-  repository = "Lucassites"
-  branch = "master
+  repository = "Hugo-sites"
+  branch = "master"
