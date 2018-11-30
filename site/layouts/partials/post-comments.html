@@ -20,11 +20,7 @@
     {{ end }}
   {{ end }}
 
-  {{ if eq ($.Scratch.Get "hasComments") 0 }}
-    <p>Nothing yet.</p>
-  {{ end }}
-
-  <h3>Say something</h3>
+  <h3>Deixe seu comentário</h3>
 
   <form class="post-new-comment" method="POST" action="https://dev.staticman.net/v2/entry/eduardoboucas/hugo-plus-staticman/master/comments">
   <!--form class="post-new-comment" method="POST" action="http://localhost:8055/v2/entry/eduardoboucas/staticman-test/master/comments"-->
