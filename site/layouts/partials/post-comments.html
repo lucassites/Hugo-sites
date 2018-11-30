@@ -1,8 +1,11 @@
-<form method="POST" action="{yourStaticmanUrl}">
-  <input name="fields[path]" type="hidden" value="{path}">
+<form method="POST" action="{{ .Permalink }}{Obrigado}">
+  <input name="fields[path]" type="hidden" value="3fbfc0a172d5b2f7304ca6d0b66e79b0">
   <input name="fields[name]" type="text" />
   <input name="fields[email]" type="email" />
   <textarea name="fields[message]"></textarea>
 
   <button type="submit">Post comment!</button>
 </form>
+<div id="comment-submitted" class="dialog">
+<h3>Obrigado</h3>
+  <p>Seu comentário será aprovado em breve ou NÃO.</p>
