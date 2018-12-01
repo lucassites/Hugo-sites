@@ -5,3 +5,4 @@ title = "7do2"
   post = "/:title"
   # Nome Disqus
   disqusShortname = "7do2"
+  avatar = "logo-7do2.png"
