@@ -1,20 +1,37 @@
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
-  {{ if $.Site.Params.gravatar }}
-  <img class="portrait mr-3" src="https://s.gravatar.com/avatar/{{ md5 $.Site.Params.email }}?s=200')" itemprop="image" alt="Avatar">
-  {{ else if $.Site.Params.avatar }}
-  <img class="portrait mr-3" src="{{ (printf "img/%s" $.Site.Params.avatar) | relURL }}" itemprop="image" alt="Avatar">
-  {{ end }}
+  
+  <img class="portrait mr-3" src="https://themes.gohugo.io//theme/academic/img/portrait.jpg" itemprop="image" alt="Avatar">
+  
   <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="{{ "/" | relLangURL }}">{{ $.Site.Params.name }}</a></h5>
-    {{ with $.Site.Params.role }}<h6 class="card-subtitle">{{.}}</h6>{{end}}
-    {{ with $.Site.Params.bio }}<p class="card-text" itemprop="description">{{. | markdownify | emojify}}</p>{{end}}
+    <h5 class="card-title" itemprop="name"><a href="https://themes.gohugo.io//theme/academic/">Lena Smith</a></h5>
+    <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
+    
     <ul class="network-icon" aria-hidden="true">
+
       <li>
-        <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        <a itemprop="sameAs" href="https://themes.gohugo.io//theme/academic/#contact" >
+          <i class="fas fa-envelope"></i>
         </a>
       </li>
-      {{ end }}
+    
+      <li>
+        <a itemprop="sameAs" href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+   
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+
+      <li>
+        <a itemprop="sameAs" href="https://github.com/gcushen" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
     </ul>
   </div>
 </div>
