@@ -2,7 +2,7 @@
 	<div class="ph3 mw7 center">
 
 		<h1 class="f2 b lh-title mb3">Artigos</h1>
-
+{{ partial "short-text" .Params.blurb}}
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
 			{{ range first 4 (where .Data.Pages "Type" "post") }}
 				<div class="ph1-ns w-50-ns flex">
