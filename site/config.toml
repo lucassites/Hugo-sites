@@ -5,5 +5,7 @@ title = "7do2"
   post = "/:title"
   # Nome Disqus
   disqusShortname = "7do2"
+  [[headers]]
+  for = "*.png" # css files too
   [headers.values]
-    cache-control = "public, max-age=604800"
+    Cache-Control = "public, max-age=604800"
