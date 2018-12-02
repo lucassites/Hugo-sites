@@ -5,4 +5,5 @@ title = "7do2"
   post = "/:title"
   # Nome Disqus
   disqusShortname = "7do2"
+  enableRobotsTXT = true
   
