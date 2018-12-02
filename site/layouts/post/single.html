@@ -14,7 +14,9 @@
   </div>
   </article>				
 					<div class=post-tags>Tag(s):
-<span class="tag"><a href="{{ "tags/" | absURL }}{{ . | urlize }}/">
+{{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
+              #{{$tag}} {{end}} </span>
+              {{ end }}
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
   <img class="portrait" src="img/autor-lucas.jpg" itemprop="image" alt="7do2">
