@@ -14,9 +14,9 @@
   </div>
   </article>				
 					<div class=post-tags>Tag(s):
-{{if .Params.tags }}<span class="post-card-tags"><li><a href="{{ .Permalink }}">{{ $name }}</a></li>
-              #{{$tag}} {{end}} </span>
-              {{ end }}
+<span class="post-card-tags">{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+<a href="/tags/{{ $name | urlize }}">{{ $name }}</a>
+{{ end }}
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
   <img class="portrait" src="img/autor-lucas.jpg" itemprop="image" alt="7do2">
