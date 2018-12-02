@@ -1,0 +1,12 @@
+ExpiresByType text/html "modification plus 6 months"
+ExpiresByType text/css "modification plus 6 months"
+ExpiresByType image/jpeg "modification plus 6 months"
+ExpiresByType image/png "modification plus 6 months"
+ExpiresByType image/gif "modification plus 6 months"
+
+<FilesMatch "\.js">
+ExpiresByType application/x-javascript "modification plus 12 months"
+</FilesMatch>
+<FilesMatch "special\.js">
+ExpiresByType application/x-javascript "modification plus 3 months"
+</FilesMatch>
