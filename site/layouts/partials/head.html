@@ -42,49 +42,11 @@
     
     <!-- JSON-LD -->
     {{ if .IsHome }}
-    <script type="application/ld+json">
-    { 
-      "@context": "http://schema.org", 
-      "@type": "WebSite", 
-      "url": "{{ .Permalink }}", 
-      "name": "{{ .Site.Title }}",
-       "author": {
-          "@type": "Person",
-          "name": "{ .Site.Params.author }}"
-        },
-      "description": "{ .Site.Params.description }}",
-    }
-    </script>
-    {{ end }}
-    {{ if .IsPage }}
-        <script type="application/ld+json">
-        {{if eq .Section "post"}}
-        { 
-            "@context": "http://schema.org", 
-            "@type": "BlogPosting",
-            "headline": "{{ .Title }}",
-            "genre": "{{ range .Params.categories }}{{ . }}{{ end }}",  
-            "url": "{{ .Permalink }}",
-            "datePublished": "{{ time .Date }}",
-            "description": "{{ .Description }}",
-            "author": {
-                "@type": "Person",
-                "name": "{{ .Site.Params.author }}"
-            }
-         }
-        {{ else }}
-        { 
-          "@context": "http://schema.org", 
-          "@type": "WebSite", 
-          "url": "{{ .Permalink }}", 
-          "name": "{{ .Title }}",
-           "author": {
-              "@type": "Person",
-              "name": "{ .Site.Params.author }}"
-            },
-          "description": "{ .Site.Params.description }}",
-        }
-        </script>
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"{{ .Permalink }}","name":"{{ .Site.Title }}","author":{"@type":"Person","name":"{ .Site.Params.author }}"},"description":"{ .Site.Params.description }}",}</script>{{end}}
+{{if.IsPage}}<script type="application/ld+json">{{if eq.Section "post"}}
+{"@context":"http://schema.org","@type":"BlogPosting","headline":"{{ .Title }}","genre":"{{ range .Params.categories }}{{ . }}{{ end }}","url":"{{ .Permalink }}","datePublished":"{{ time .Date }}","description":"{{ .Description }}","author":{"@type":"Person","name":"{{ .Site.Params.author }}"}}
+{{else}}
+{"@context":"http://schema.org","@type":"WebSite","url":"{{ .Permalink }}","name":"{{ .Title }}","author":{"@type":"Person","name":"{ .Site.Params.author }}"},"description":"{ .Site.Params.description }}",}</script>
         {{ end }}
     {{ end }}
 	
