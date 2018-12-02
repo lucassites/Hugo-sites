@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: {{ .Site.BaseURL }}sitemap.xml
+Sitemap: https://www.7do2.eu.org/sitemap.xml
