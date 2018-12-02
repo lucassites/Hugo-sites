@@ -88,17 +88,10 @@
  *  cor Tags
  **************************************************/
 
-.post-card-tags {
-  border-radius: 3px;
-    padding: 3px 5px;
-    color: #0084c7!important;
-  margin-left: 5px;
-}
-
 .post-tags {
     margin-right: auto;
     margin-left: auto;
     max-width: 650px;
-    font-size: 13px;
+    font-size: 14px;
   color: #aaa;
 }
