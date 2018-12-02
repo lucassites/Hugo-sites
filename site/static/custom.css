@@ -87,10 +87,15 @@
  *  cor Tags
  **************************************************/
 
-.tags {
+.tags-card {
     margin-right: auto;
     margin-left: auto;
     max-width: 650px;
     font-size: 14px;
   color: #aaa;
 }
+
+.tags {
+  color: #0084c7;
+}
+
