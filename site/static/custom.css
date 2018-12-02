@@ -22,7 +22,9 @@
   width: 90px;
   height: 90px;
   object-fit: cover;
-  margin-right: 1rem!important; */
+  float: left;
+    padding: 8px;
+    margin: 0 20px 0 0;
 }
 
 .author-card .card-title {
