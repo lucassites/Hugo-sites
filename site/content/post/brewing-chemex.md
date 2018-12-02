@@ -9,7 +9,7 @@ tags:
   - Café
   - bebida
 comments: true
-image: /img/café.png
+image: /img/café.pngv=2020.9.25
 share: false
 ---
 
