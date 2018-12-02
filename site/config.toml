@@ -5,4 +5,5 @@ title = "7do2"
   post = "/:title"
   # Nome Disqus
   disqusShortname = "7do2"
-  avatar = "logo-7do2.png"
+  [headers.values]
+    cache-control = "max-age=0,no-cache,no-store,must-revalidate"
