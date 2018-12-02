@@ -6,4 +6,4 @@ title = "7do2"
   # Nome Disqus
   disqusShortname = "7do2"
   [headers.values]
-    cache-control = "max-age=0,no-cache,no-store,must-revalidate"
+    cache-control = "public, max-age=604800"
