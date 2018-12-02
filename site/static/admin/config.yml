@@ -62,7 +62,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: text
       - - file: "site/content/politicas/politicas.md"
         label: "Contact Page"
-        name: "contact"
+        name: "politicas"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
