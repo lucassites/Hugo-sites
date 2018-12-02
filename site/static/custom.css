@@ -73,7 +73,7 @@
 /*************************************************
  *  cor icones svg redes sociais
  **************************************************/
-.fb:hover  { color: #3b5998 }
+.fb  { color: #3b5998 }
  
 .tw:hover   { color: #55acee }
  
@@ -84,7 +84,7 @@
 .it:hover { color: #833ab4 }
  
  
-.fb:hover::after  { background: #3b5998 }
+.fb:hover  { background: #3b5998 }
  
 .tw:hover::after   { background: #55acee }
  
