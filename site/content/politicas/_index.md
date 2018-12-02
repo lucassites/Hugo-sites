@@ -1,5 +1,5 @@
 ---
-title: Contato
+title: Politicas
 logo: /img/logo-7do2.png
 contact_entries:
   - heading: Location
