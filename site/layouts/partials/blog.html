@@ -10,22 +10,7 @@
 				</div>
 			{{ end }}
 		</div>
-<div class="post-card-content">
-      <a class="post-card-content-link" href="{{ .Permalink }}">
-          <header class="post-card-header">
-              {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
-              #{{$tag}} {{end}} </span>
-              {{ end }}
-              <h2 class="post-card-title">{{.Title}}</h2>
-          </header>
-          <section class="post-card-excerpt">
-              {{ if .Description }} 
-                <p>{{ .Description | markdownify }}</p>
-              {{else}}
-                <p>{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
-              {{end}}
-          </section>
-      </a>
+
 		<div class="tc">
 			<a href="/post" class="btn raise">Leia mais</a>
 		</div>
