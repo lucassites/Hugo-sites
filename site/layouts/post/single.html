@@ -65,10 +65,10 @@
 
 <!-- Image grid -->
 {{ partial "image-grid" . }}
-{{ end }}
+
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
-{{ end }}
+
 {{ with .Params.main }}
 <div class="mw7 center">
   <div class="mw6 ph3 mb3">
@@ -76,4 +76,4 @@
     <p>{{ .description }}</p>
   </div>
 </div>
-
+{{ end }}
