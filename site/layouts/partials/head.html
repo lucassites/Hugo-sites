@@ -22,7 +22,7 @@
         <meta content="327700103966602" property="fb:app_id">
 
 
-   {{ range .Params.tags }}<meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ else }}"{{ . }}"{{ end }}" />
+   {{ range .Params.tags }}<meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ else }}{{ . }}{{ end }}" />
 
     <meta name="robots" content="noodp"/>
     <link rel="canonical" href="{{ .Permalink }}" />
