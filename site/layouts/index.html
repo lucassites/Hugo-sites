@@ -1,5 +1,8 @@
-{{ define "main" }}
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
 
 {{ partial "blog" . }}
 {{ partial "text-and-image" (where .Data.Pages "Type" "post") }}
 						
+{{ partial "footer" . }}
