@@ -14,7 +14,7 @@
   </div>
   </article>				
   <div class="tags-card">Tag(s):{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-	 <span class="tags"><a href="/tags/{{ $name | urlize }}"> #{{ $name }}</a></span>
+	 <span class="tags"><a href="/tags/{{ $name | urlize }}"> #{{ . }}</a></span>
 	 {{ end }}</div>
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
