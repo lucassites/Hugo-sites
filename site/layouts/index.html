@@ -1,6 +1,5 @@
 {{ define "main" }}
 
 {{ partial "blog" . }}
-{{ partial "text-and-image" (where .Data.Pages "Type" "post") 
+{{ partial "text-and-image" (where .Data.Pages "Type" "post") }}
 						
-{{ end }}
