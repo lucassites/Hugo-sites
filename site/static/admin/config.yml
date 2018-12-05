@@ -29,7 +29,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
                     
-      - file: "site/content/contact/_index.md"
+      - file: "site/content/contato/_index.md"
         label: "Página de contato"
         name: "contact"
         fields:
