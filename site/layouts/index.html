@@ -1,6 +1,8 @@
----
-title: 7do2
-subtitle: Blog com dicas para SEO
-image: /img/about-reinvest-profits.jpg
----
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "/img/about-reinvest-profits.jpg" .Params.image "7do2" .Title "Blog para SEO" .Params.subtitle) }}
+
+{{ partial "blog" . }}
+
+{{ end }}
 
