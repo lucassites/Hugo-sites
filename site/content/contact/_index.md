@@ -4,8 +4,6 @@ logo: /img/logo-7do2.png
 contact_entries:
   - heading: Local
     text: Ceará - Brasil
-  - heading: Hora da resposta
-    text: Responderei após as 18h
 ---
 Que bom que chegou na página de contato, assim que seu e-mail chegar na minha caixa de entrada eu lhe responderei.
 
