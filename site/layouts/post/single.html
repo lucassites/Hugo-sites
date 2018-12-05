@@ -13,8 +13,8 @@
     </div>
   </div>
   </article>				
-  <div class="tags-card">Tag(s):{{ range $name := . }}
-	 <span class="tags"><a href="/tags/{{ $name | urlize }}"> #{{ $name }}</a></span>
+  <div class="tags-card">Tag(s):range $name, $items := .Site.Taxonomies.tags }}
+	 <span class="tags"><a href="/tags/{{ $name | urlize }}"> #{{ $name }} &nbsp;<span>({{ len $items }})</span></a>
 	 {{ end }}</div>
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
