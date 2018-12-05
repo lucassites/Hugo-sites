@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	{{ .Params.description }}<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }} /">{{ end }}
 	
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -22,8 +23,7 @@
 	<meta name="og:description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }} /">
 
 
-   <meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ end }}" />
-   {{ range .Params.tags }}<meta name="og:keywords" content="{{ . }}" />{{ end }}
+   <meta name="og:keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ end }}" />
     <meta name="robots" content="noodp"/>
     <link rel="canonical" href="{{ .Permalink }}" />
 
