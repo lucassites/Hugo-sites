@@ -1,10 +1,6 @@
 {{ define "main" }}
 
 {{ partial "blog" . }}
-{{ partial "text-and-image" (
-			range first 4 (where .Data.Pages "Type" "post" 
+{{ partial "text-and-image" (where .Data.Pages "Type" "post") 
 						
-
-		<div class="tc">
-			<a href="/post" class="btn raise">Leia mais</a>) }}
 {{ end }}
