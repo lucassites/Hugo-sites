@@ -9,6 +9,4 @@ title = "7do2"
   [params]
 description = "Um blog que ensina você sobre SEO e outras técnicas de forma simples e direta"
 keywords = "Seo, Otimização, blog"
-  [taxonomies]
-    category = "categoria"
-    tag = "tag"
+  
