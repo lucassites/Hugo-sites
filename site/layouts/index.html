@@ -1,6 +1,7 @@
----
-title: Blog 7do2
-subtitle: Tudo sobre SEO para blogs
-image: /img/about-reinvest-profits.jpg
----
+{{ define "main" }}
 
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+{{ partial "blog" . }}
+
+{{ end }}
