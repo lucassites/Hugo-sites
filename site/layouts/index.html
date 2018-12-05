@@ -1,5 +1,14 @@
 {{ define "main" }}
 
 {{ partial "blog" . }}
-{{ partial "text-and-image" (dict "heading" "Our values" "text" "Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature." "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" (<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			{{ range first 4 (where .Data.Pages "Type" "post") }}
+						<div class="ph1-ns w-50-ns flex">
+					{{ .Render "li" }}
+				</div>
+			{{ end }}
+		</div>
+
+		<div class="tc">
+			<a href="/post" class="btn raise">Leia mais</a>) }}
 {{ end }}
