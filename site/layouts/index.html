@@ -3,11 +3,7 @@
 {{ partial "blog" . }}
 {{ partial "text-and-image" (
 			{{ range first 4 (where .Data.Pages "Type" "post") }}
-						<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		
+						
 
 		<div class="tc">
 			<a href="/post" class="btn raise">Leia mais</a>) }}
