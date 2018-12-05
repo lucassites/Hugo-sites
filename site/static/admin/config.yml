@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
                     
       - file: "site/content/contato/_index.md"
         label: "Página de contato"
-        name: "contact"
+        name: "contato"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
