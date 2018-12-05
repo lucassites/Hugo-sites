@@ -23,7 +23,7 @@
 
 
    <meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ end }}" />
-   {{ range .Params.tags }}<meta name="keywords" content="{{ . }}" />{{ end }}
+   {{ range .Params.tags }}<meta name="og:keywords" content="{{ . }}" />{{ end }}
     <meta name="robots" content="noodp"/>
     <link rel="canonical" href="{{ .Permalink }}" />
 
