@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: Full_image, name: full_image, widget: image}
-      - {label: "Body", name: "body", widget: "markdown"}
+      
   - name: "pages"
     label: "Pages"
     files:
