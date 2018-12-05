@@ -4,7 +4,6 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }} /">
 	
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -20,6 +19,7 @@
 	<meta property="og:image" content="/img/og-image.jpg">
 	<meta content="214198061947395" property="fb:admins">
         <meta content="327700103966602" property="fb:app_id">
+	<meta name="og:description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }} /">
 
 
    <meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ end }}" />
