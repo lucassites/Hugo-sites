@@ -1,6 +1,9 @@
 <a href="{{ .Permalink }}" class="no-underline pa3 br1 mb2 db raise w-100">
 	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
 	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+	<p class="byline">
+    by {{ .Render "author-link" }}
+  </p>
 	<p class="mb0">{{ .Description }}</p>
 	
 </a>
