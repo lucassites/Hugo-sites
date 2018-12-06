@@ -17,7 +17,6 @@
 	 <span class="tags"><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">#{{ . }}</a></span>
 	 {{ end }}</div>
 {{ if $.Param "socialShare" }}
-            <hr/>
             <section id="social-share">
               <div class="list-inline footer-links">
                 {{ partial "compartilhar" . }}
