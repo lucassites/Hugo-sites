@@ -1,29 +1,7 @@
 {{ define "main" }}
 
-<h1>{{ .Params.name }}</h1>
-{{ .Render "photo" }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/seo-7do2.jpg" "{{ .Params.name }}" "Blog 7do2" "subtitle" "{{ .Summary }}") }}
 
-<h2>Sobre</h2>
-{{ .Content }}
+{{ partial "blog-home" . }}
 
-<h2>Articles</h2>
-{{ range .Data.Pages }}
-  <div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
-
-		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 6 (where .Data.Pages "Type" "post") }}
-				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		</div>
-
-		<div class="tc">
-			<a href="/post" class="btn raise">Leia mais</a>
-		</div>
-
-	</div>
-</div>
-{{ end }}
 {{ end }}
