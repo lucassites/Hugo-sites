@@ -8,7 +8,7 @@
 
 <h2>class="card-title" itemprop="name">Artigos</h2>
 {{ range .Data.Pages }}
- {{ partial "blog-home" . }}
+ {{ .Render "blog-home" . }}
 {{ end }}
 
 {{ end }}
