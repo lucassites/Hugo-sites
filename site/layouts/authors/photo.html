@@ -1,0 +1,10 @@
+{{- with .Params.photo_url }}
+<figure>
+  <img src="{{ . }}" alt="">
+  {{- with $.Params.twitter }}
+  <figcaption>
+    Twitter {{ . | markdownify }}</a>
+  </figcaption>
+  {{ end }}
+</figure>
+{{ end }}
