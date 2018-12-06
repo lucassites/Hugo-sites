@@ -16,13 +16,13 @@
   <div class="tags-card">Tag(s):{{ range .Params.tags }}
 	 <span class="tags"><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">#{{ . }}</a></span>
 	 {{ end }}</div>
-{{ if $.Param "socialShare" }}
+
             <section id="social-share">
               <div class="list-inline footer-links">
                 {{ partial "compartilhar" . }}
               </div>
             </section>
-        {{ end }}
+
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
   <img class="portrait" src="img/autor-lucas.jpg" itemprop="image" alt="7do2">
