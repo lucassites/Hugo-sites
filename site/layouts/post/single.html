@@ -66,6 +66,6 @@
 				</ul>
   </div>
 </div>
-<div class="disqus">
-</div>
+<h2>About the {{ cond (eq (len .Params.authors) 1) "author" "authors" }}</h2>
+    {{ .Render "author-figure" }}
 {{ end }}
