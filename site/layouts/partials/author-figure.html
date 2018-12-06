@@ -1,10 +1,12 @@
 <figure>
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
-  <img src="{{ .Params.avatar }}" alt="" />
+  <img class="portrait" src="{{ .Params.avatar }}" alt="" />
   <figcaption>
-    <p>
+    <h5 class="card-title" itemprop="name"><a href="{{ .Permalink }}" class="block-link"></a></h5>
+        Mais artigos de {{ .Params.name }}
+<h6 class="card-subtitle">
       {{ .Summary }}
-    </p>
+    </h6>
     <p>
       <a href="{{ .Permalink }}" class="block-link">
         Mais artigos de {{ .Params.name }}
