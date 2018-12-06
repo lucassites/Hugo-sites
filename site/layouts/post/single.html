@@ -16,15 +16,14 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
-  </div>{{ end }}
+  </div>
 	<div class="tags-card">Tag(s):{{ range .Params.tags }}
 	 <span class="tags"><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">#{{ . }}</a></span>
 	 {{ end }}</div>
-	<footer>
-    <h2>About the {{ cond (eq (len .Params.authors) 1) "author" "authors" }}</h2>
+
     {{ .Render "author-figure" }}
-  </footer>
+
   </article>				
-  
+  {{ end }}
 
 
