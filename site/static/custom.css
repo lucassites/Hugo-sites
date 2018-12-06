@@ -54,6 +54,9 @@
   font-size: 0.8rem;
   color: rgba(0, 0, 0, 0.54);
   margin-bottom: 7px;
+  max-width: 600px;
+    display: flex;
+    text-align: left;
 }
 
 .dark .author-card .card-subtitle {
