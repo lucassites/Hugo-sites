@@ -3,8 +3,27 @@
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
-      <p>{{ .Date.Format "02.01.2006" }}</p>
-      <p>{{ .ReadingTime }} minutos de leitura</p>
+      {{- with .Params.authors -}}
+        <div class="author">
+          <span class="post--meta-label">Written by</span>
+          {{- range . -}}
+            {{- $authorName := . -}}
+            {{- range $.Site.Data.authors.authors -}}
+              {{- if eq (urlize .fullName) (urlize $authorName) -}}
+              <a href="{{ "/authors/" | relURL }}{{ .fullName | urlize }}/" class="author--wrapper">
+                <div class="author--avatar">
+                  <img src="{{ .avatar }}" alt="{{ .fullName | default .avatar }}">
+                </div>
+                <div class="author--info">
+                  <span class="author--name">{{ .fullName }}</span>
+                  <span class="author--title">{{ .title }}</span>
+                </div>
+              </a>
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        </div>
+        {{- end -}}
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
