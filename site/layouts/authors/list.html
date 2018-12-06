@@ -3,10 +3,10 @@
 <h1>{{ .Params.name }}</h1>
 {{ .Render "photo" }}
 
-<h2>class="card-title" itemprop="name">Sobre</h2>
+<h2><div class="card-title" itemprop="name">Sobre</h2></div>
 {{ .Content }}
 
-<h2>class="card-title" itemprop="name">Artigos</h2>
+<h2><div class="card-title" itemprop="name">Artigos</h2></div>
 {{ range .Data.Pages }}
  {{ .Render "blog-home" . }}
 {{ end }}
