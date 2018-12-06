@@ -1,13 +1,14 @@
 <figure>
+  <div class="media-body">
   <img src="{{ .Params.avatar }}" alt="" />
   <figcaption>
-    <p>
+    <p class="card-subtitle">
       {{ .Summary }}
     </p>
     <p>
-      <a href="{{ .Permalink }}" class="block-link">
-        More about {{ .Params.name }}
-      </a>
+      <h5 class="card-title" itemprop="name"> <a href="{{ .Permalink }}" class="block-link">
+        Sobre {{ .Params.name }}
+      </a></h5>
     </p>
   </figcaption>
 </figure>
