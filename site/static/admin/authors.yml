@@ -1,0 +1,20 @@
+---
+map:
+  Redação 7do2: redacao-7do2
+  Lucas Freitas: lucas-freitas
+  
+authors:
+- avatar: "/img/android-chrome-192x192.png
+  bio: 'O blog que traz uma luz para suas finnças, com o objetivo de eplicar e ajudar as pessoas sobre finanças pessoais'
+  firstName: Lucas
+  fullName: Freitas
+  shortBio: 'Designer gráfico que ama finanças'
+  twitter: ludsgn
+  title: 'Criador do blog 7do2'
+  - avatar: "/img/autor-lucas.jpg
+  bio: 'Sou apaixonado por informações que agregam de alguma forma positiva as nossas vidas, estou sempre em busca de novos conhecimentos.'
+  firstName: Blog
+  fullName: 7do2
+  shortBio: 'O blog que traz uma luz para suas finnças'
+  twitter: 7do2blog
+  title: 'Blog sobre finanças'
