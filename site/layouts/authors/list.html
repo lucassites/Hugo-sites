@@ -1,27 +1,8 @@
 {{ define "main" }}
 
 <h1>{{ .Params.name }}</h1>
-{{ .Render "photo" }}
+{{ range .Data.Pages }}
+  {{ .Render "article" }}
+{{ end }}
 
-<h2><div class="card-title" itemprop="name">Sobre</h2></div>
-{{ .Content }}
-
-<h2><div class="card-title" itemprop="name">Artigos</h2></div>
-<div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
-
-		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 6 (where .Data.Pages "Type" "post") }}
-				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		</div>
-
-		<div class="tc">
-			<a href="/post" class="btn raise">Leia mais</a>
-		</div>
-
-	</div>
-</div>
 {{ end }}
