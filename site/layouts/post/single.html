@@ -17,10 +17,13 @@
 	 <span class="tags"><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">#{{ . }}</a></span>
 	 {{ end }}</div>
 
-
+{{ if $.Param "socialShare" }}
+<section id="social-share">
               <div class="list-inline footer-links">
                 {{ partial "compartilhar" . }}
-              </div>
+           </div>
+            </section>
+        {{ end }}
 
 
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
