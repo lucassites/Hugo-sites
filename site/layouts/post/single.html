@@ -4,7 +4,7 @@
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
      <p class="byline">
-    por {{ .author-link }}
+    por {{ range  .author-link }}
   </p> <p>{{ .Date.Format "02.01.2006" }}</p>
       <p>{{ .ReadingTime }} minutos de leitura</p>
     </div>
