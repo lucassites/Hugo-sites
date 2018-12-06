@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<h1>{{ .Params.name }}</h1>
+{{ .Render "photo" }}
+
+<h2>class="card-title" itemprop="name">Sobre</h2>
+{{ .Content }}
+
+<h2>class="card-title" itemprop="name">Artigos</h2>
+{{ range .Data.Pages }}
+ {{ partial "blog-home" . }}
+{{ end }}
+
+{{ end }}
