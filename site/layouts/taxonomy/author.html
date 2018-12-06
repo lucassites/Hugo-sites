@@ -1,36 +1,24 @@
 {{- define "main" -}}
-  <div id="root"></div>
-  <div id="modal-root"></div>
-  <main id="post-container" class="single-post">
-    {{- with .Params.images -}}
-      {{- range first 1 . -}}
-        <div class="post--feature-image">
-            {{ partial "cloudinary/image" (dict "pg" $ "image" . "alt" ($.Params.headline | default $.Title) "max_width" "2280") }}
-        </div>
-      {{- end -}}
-    {{- end -}}
+  <main class="blog-list-wrapper">
     <div class="container">
-      <h1 class="post--title">{{ .Params.headline | default .Title }}</h1>
-      <div class="post--meta">
-        {{- with .Params.authors -}}
-        <div class="author">
-          <span class="post--meta-label">Written by</span>
-          {{- range . -}}
-            {{- $authorName := . -}}
-            {{- range $.Site.Data.authors.authors -}}
-              {{- if eq (urlize .fullName) (urlize $authorName) -}}
-              <a href="{{ "/authors/" | relURL }}{{ .fullName | urlize }}/" class="author--wrapper">
-                <div class="author--avatar">
-                  <img src="{{ .avatar }}" alt="{{ .fullName | default .avatar }}">
-                </div>
-                <div class="author--info">
-                  <span class="author--name">{{ .fullName }}</span>
-                  <span class="author--title">{{ .title }}</span>
-                </div>
-              </a>
-              {{- end -}}
+      <section class="blog-header">
+        <div class="blog-header--sticky">
+          <h1 class="blog-header--title">Articles by {{ .Title }}</h1>
+          {{- range .Site.Data.authors.authors -}}
+            {{- if eq (urlize .fullName) (urlize $.Title) -}}
+            <div class="author--wrapper">
+              <div class="author--avatar">
+                <img src="{{ .avatar }}" alt="{{ .fullName | default .avatar }}">
+              </div>
+              <div class="author--info">
+                <span class="author--name">{{ .fullName }}</span>
+                <span class="author--title">{{ .title }}</span>
+              </div>
+            </div>
+            <br />
+            <p class="author--bio">{{ markdownify .shortBio }}</p>
             {{- end -}}
           {{- end -}}
         </div>
-        {{- end -}}
+      </section>
         {{- end -}}
