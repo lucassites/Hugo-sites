@@ -3,7 +3,9 @@
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
-      <p>Atualizado dia{{ .Date.Format "02.01.2006" }}</p>
+     <p class="byline">
+    by {{ .Render "author-link" }}
+  </p> <p>{{ .Date.Format "02.01.2006" }}</p>
       <p>{{ .ReadingTime }} minutos de leitura</p>
     </div>
     <div class="cms mw6">
