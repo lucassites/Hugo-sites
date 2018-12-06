@@ -1,6 +1,12 @@
 {{ define "main" }}
 
 <h1>{{ .Params.name }}</h1>
+{{ .Render "photo" }}
+
+<h2>Sobre</h2>
+{{ .Content }}
+
+<h2>Articles</h2>
 {{ range .Data.Pages }}
   {{ .Render "article" }}
 {{ end }}
