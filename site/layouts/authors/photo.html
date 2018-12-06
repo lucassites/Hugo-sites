@@ -1,9 +1,9 @@
 {{- with .Params.photo_url }}
 <figure>
   <img src="{{ . }}" alt="">
-  {{- with $.Params.twitter }}
+  {{- with $.Params.photo_credit }}
   <figcaption>
-    Twitter {{ . | markdownify }}</a>
+    Photo credit {{ . | markdownify }}</a>
   </figcaption>
   {{ end }}
 </figure>
