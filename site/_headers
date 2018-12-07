@@ -1,0 +1,4 @@
+# A path:
+/assets/*
+   # Headers for that path:
+   Cache-Control: public, max-age=360000 
