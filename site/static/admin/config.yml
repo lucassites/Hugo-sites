@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
             
-  - name: "pages"
+   name: "pages"
     label: "Pages"
     files:
       - file: "site/layouts/index.html"
@@ -30,9 +30,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
           
-        - name: "Políticas do site"
-        - label: "politica"
-          file: "site/content/products/_index.md"
+          
+          -file: "site/content/products/_index.md"
+           name: "Políticas do site"
+         label: "politica"
+         create: true
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string,required: false}
