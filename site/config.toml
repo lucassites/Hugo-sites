@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "pt-br"
 title = "7do2"
 [permalinks]
-  post = "/:title"
+  post = "/:url"
   # Nome Disqus
   disqusShortname = "7do2"
   enableRobotsTXT = true
