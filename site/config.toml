@@ -9,6 +9,8 @@ post = "/:title"
   [params]
 description = "O blog que da uma luz para as suas finanças pessoais, com boas dicas e materiais completos para você!"
 keywords = "Economia, finanças pessoais, Educacao financeira, investimentos inteligentes"
+height = "100%
+width = "100%"
 [taxonomies]
 author = "autores"
 category = "categorias"
