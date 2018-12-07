@@ -10,7 +10,7 @@ title = "7do2"
 description = "Um blog que ensina você sobre SEO e outras técnicas de forma simples e direta"
 keywords = "Seo, Otimização, blog"
 [taxonomies]
-author = "authors"
+author = "autores"
 category = "categorias"
 tag = "tags"
   
