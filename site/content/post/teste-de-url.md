@@ -1,5 +1,5 @@
 ---
-title: jamaica unida
+title: jamaica unida é tudo que precisamos
 href: url-trocada
 autores:
   - Redação 7do2
