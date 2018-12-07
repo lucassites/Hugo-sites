@@ -138,11 +138,15 @@ h6 { font-size: .75em; }
     background: #16496b;
     color: #fff;
     cursor: pointer;
-    border-radius: 4px;
+    border-radius: .25px;
     box-shadow: 5px 5px 5px #ccc;
     border: 1px solid #123e5d;
     border-bottom: 6px solid #03132f;
-    padding: 7px 10px;}
+    padding: 12px 16px 10px;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+}
 
 .clica:hover {
     background: #123e5d;
