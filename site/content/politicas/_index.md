@@ -3,7 +3,7 @@ title: Políticas do site
 description: Página de políticas do site 7do2
 image: ''
 ---
-# Políticas de privacidade
+## Políticas de privacidade
 
 A Política de Privacidade e Segurança foi criada para demonstrar o compromisso e respeito da 7do2 com a segurança e a privacidade de informações coletadas de nossos usuários.
 
@@ -13,7 +13,7 @@ Esta política de Privacidade estará permanentemente disponível no link Polít
 
 
 
-## 1. Informações Pessoais
+### 1. Informações Pessoais
 
 1.1) Para usufruir dos serviços e benefícios oferecidos pela 7do2, o Usuário deverá realizar o seu registro no Portal da 7do2, preenchendo o formulário de cadastro mediante o fornecimento das informações nele indicadas, dentre elas seu nome, sobrenome e e-mail, além de outras informações pessoais.
 
@@ -39,7 +39,7 @@ Esta política de Privacidade estará permanentemente disponível no link Polít
 
 
 
-## 2. Sistemas de Segurança
+### 2. Sistemas de Segurança
 
 2.1) Para a maior privacidade de seus Usuários, a 7do2 adota todas as medidas legalmente admitidas quanto à segurança na proteção de dados, visando evitar a perda, mau uso, alteração, acesso não autorizado ou subtração indevida das informações pessoais fornecidas por seus Usuários através do Portal da 7do2.
 
@@ -57,7 +57,7 @@ Esta política de Privacidade estará permanentemente disponível no link Polít
 
 
 
-## 3. Utilização de Cookies
+### 3. Utilização de Cookies
 
 
 
@@ -103,7 +103,7 @@ Esta política de Privacidade estará permanentemente disponível no link Polít
 
 
 
-## 4. Mudanças na Política de Privacidade
+### 4. Mudanças na Política de Privacidade
 
 4.1) A 7do2 reserva-se o direito de promover, a qualquer tempo, eventuais alterações na presente Política de Privacidade incluindo, mas não limitado, quando da ocorrência de:
 
@@ -119,6 +119,6 @@ Esta política de Privacidade estará permanentemente disponível no link Polít
 
 
 
-## 5. Atendimento
+### 5. Atendimento
 
 5.1) Eventuais dúvidas e questionamentos dos Usuários com relação à presente Política de Privacidade, bem como solicitações de informações adicionais ou reclamações quanto aos serviços e/ou benefícios oferecidos pela 7do2, poderão ser solucionadas através do link Contato, disponível no Portal da 7do2.
