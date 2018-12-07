@@ -61,8 +61,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Pricing, name: pricing, widget: object, required: false, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
       - file: "site/content/politicas/_index.md"
         label: "Políticas"
-        name: "values"
+        name: "Politicas"
         fields:
           - {label: "Title", name: "Título", widget: "string"}
           - {label: "Image", name: image, widget: image,required: false}
           - {label: "Body", name: "Texto", widget: "markdown"}
+          - {label: Type, name: type, widget: hidden, default: "page"}
