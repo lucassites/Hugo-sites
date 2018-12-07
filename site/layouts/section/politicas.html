@@ -1,8 +1,7 @@
 {{ define "main" }}
-	<div class="center mw6 pv3">
-<h1 class="f4 b lh-title mb2 primary">{{ .Title }}</h1>
-		{{ .Content }}
-				</div>
-</div>
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/seo-7do2.jpg" "title" "Blog 7do2" "subtitle" "Um blog que ensina você sobre SEO e outras técnicas de forma simples e direta") }}
+
+{{ .Content }}
 
 {{ end }}
