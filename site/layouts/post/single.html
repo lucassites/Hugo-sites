@@ -13,7 +13,7 @@
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}"  width="{{ params.width }}" height="{{ params.height }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.image }}<img src="{{ .Params.image }}"  width="{{ .Params.width }}" height="{{ .Params.height }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
   </div>
