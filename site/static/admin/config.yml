@@ -22,48 +22,15 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/layouts/index.html"
-        label: "Página inicial"
-        name: "home"
+      - label: "Sidebar"
+        name: "sidebar"
+        file: "site/content/pages/sidebar.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
-                    
-      - file: "site/content/contato/_index.md"
-        label: "Página de contato"
-        name: "contato"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Logo, name: logo, widget: image}
-          - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
-            name: contact_entries
-            widget: list
+          - name: "items"
+            label: "Sidebar Links"
+            widget: "list"
+            required: false
             fields:
-              - label: Heading
-                name: heading
-                widget: string
-              - label: Text
-                name: text
-                widget: text
-      - file: "site/content/products/_index.md"
-        label: "Products Page"
-        name: "products"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Full_image, name: full_image, widget: image,required: false}
-          - {label: Pricing, name: pricing, widget: object, required: false, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-      - file: "site/content/politicas/_index.md"
-        label: "Políticas"
-        name: "Politicas"
-        fields:
-          - {label: "Title", name: "Título", widget: "string"}
-          - {label: "Image", name: image, widget: image,required: false}
-          - {label: "Body", name: "Texto", widget: "markdown"}
-          - {label: Type, name: type, widget: hidden, default: "page"}
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "URL", name: "href", widget: "string"}
+              - {label: "Display?", name: "display", widget: "boolean", default: true}
