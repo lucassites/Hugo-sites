@@ -13,11 +13,3 @@ keywords = "Economia, finanças pessoais, Educacao financeira, investimentos int
 author = "autores"
 category = "categorias"
 tag = "tags"
-[[headers]]
-  for = "*.png" # css files too
-  [headers.values]
-    Cache-Control = "public, max-age=604800"  
-[[headers]]
-  for = "*.jpg" # css files too
-  [headers.values]
-    Cache-Control = "public, max-age=604800"  
