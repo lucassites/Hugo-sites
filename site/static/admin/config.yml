@@ -32,10 +32,9 @@ collections: # A list of collections the CMS should be able to edit
           
           
           -file: "site/content/products/_index.md"
+          label: "politica"
            name: "Políticas do site"
-         label: "politica"
-         create: true
-        fields:
+           fields:
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string,required: false}
           - {label: Image, name: image, widget: image,required: false}
