@@ -50,8 +50,8 @@ collections: # A list of collections the CMS should be able to edit
                 
     
           
-    - name: "pages"
-    label: "Pages"
+   - name: "pagina"
+    label: "Pagina"
     files:
       - file: "site/content/products/_index.md"
         label: "Products Page"
