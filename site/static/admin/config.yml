@@ -30,10 +30,10 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
                     
-       - file: "site/content/politicas/_index.md"
-         label: "politica"
-         name: "Políticas do site"
-         fields:
+      - file: "site/content/politicas/_index.md"
+        label: "politica"
+        name: "Políticas do site"
+        fields:
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string,required: false}
           - {label: Image, name: image, widget: image,required: false}
