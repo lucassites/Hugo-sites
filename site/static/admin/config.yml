@@ -50,12 +50,9 @@ collections: # A list of collections the CMS should be able to edit
                 
     
           
-  - label: "politica"
+  - label: "Políticas do site"
         name: "politica"
-    files:
-      - file: "site/content/products/_index.md"
-        label: "Políticas do site"
-        name: "politicas"
+    file: "site/content/products/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string,required: false}
