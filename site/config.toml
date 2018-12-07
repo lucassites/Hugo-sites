@@ -7,8 +7,8 @@ title = "7do2"
   disqusShortname = "7do2"
   enableRobotsTXT = true
   [params]
-description = "Um blog que ensina você sobre SEO e outras técnicas de forma simples e direta"
-keywords = "Seo, Otimização, blog"
+description = "O blog que da uma luz para as suas finanças pessoais, com boas dicas e material completos para você!"
+keywords = "Economia, finanças pessoais, Educacao financeira, investimentos inteligentes"
 [taxonomies]
 author = "autores"
 category = "categorias"
