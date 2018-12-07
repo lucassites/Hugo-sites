@@ -19,18 +19,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
             
-  - name: "pages"
-    label: "Pages"
-    files:
-      - label: "Sidebar"
-        name: "sidebar"
-        file: "site/content/pages/sidebar.md"
-        fields:
-          - name: "items"
-            label: "Sidebar Links"
-            widget: "list"
-            required: false
-            fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "URL", name: "href", widget: "string"}
-              - {label: "Display?", name: "display", widget: "boolean", default: true}
+  - name: "faq"
+    label: "Frequently Asked Questions"
+    title: "Frequently Asked Questions"
+    folder: "site/content/faq"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+     
