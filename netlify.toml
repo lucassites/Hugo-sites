@@ -15,6 +15,6 @@
    X-Content-Type-Options = "nosniff"
    Referrer-Policy= "no-referrer-when-downgrade"
    [[headers]]
-  for = "*.css" # css files too
+  for = "*.png" # png files too
   [headers.values]
     Cache-Control = "public, max-age=604800"
