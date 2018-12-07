@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
             
-   name: "pages"
+   - name: "pages"
     label: "Pages"
     files:
       - file: "site/layouts/index.html"
