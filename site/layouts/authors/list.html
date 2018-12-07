@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/seo-7do2.jpg" "title" .Params.name "subtitle" .Summary) }}
-<div class= "center" <img class="portrait" src="{{ .Params.avatar }}" alt="" /></div>
+<div class= "center"> <img class="portrait" src="{{ .Params.avatar }}" alt="" /></div>
 {{ partial "blog-home" . }}
 
 {{ end }}
