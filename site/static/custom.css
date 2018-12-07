@@ -138,7 +138,7 @@ h6 { font-size: .75em; }
     background: #16496b;
     color: #fff;
     cursor: pointer;
-    border-radius: .25px;
+    border-radius: 7px;
     box-shadow: 5px 5px 5px #ccc;
     border: 1px solid #123e5d;
     border-bottom: 6px solid #03132f;
