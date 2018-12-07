@@ -1,15 +1,12 @@
 {{ define "main" }}
 
-<div class="mw7 center ph3 pt4">
-
-  {{ range $index, $element := .Params.politicas }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse" $element }}
-    {{ end }}
-  {{ end }}
-
+<div class="ph3 bg-off-white">
+	<div class="center mw6 pv3">
+<h4 class="f4 b lh-title mb2 primary">{{ .Title }}</h4>
+		{{ .Content }}
+				</div>
+			{{ end }}
+		</div>
 </div>
 
 {{ end }}
