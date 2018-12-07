@@ -63,6 +63,6 @@ collections: # A list of collections the CMS should be able to edit
         label: "Políticas"
         name: "values"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: Image, name: image, widget: image}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Title", name: "Título", widget: "string"}
+          - {label: "Image", name: image, widget: image,required: false}
+          - {label: "Body", name: "Texto", widget: "markdown"}
