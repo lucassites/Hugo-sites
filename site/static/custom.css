@@ -130,3 +130,23 @@ h3 { font-size: 1.17em; }
 h4 { font-size: 1.12em; }
 h5 { font-size: .83em; }
 h6 { font-size: .75em; }
+
+/*************************************************
+ *  botão
+ **************************************************/
+clica {
+    background: #16496b;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px #ccc;
+    border: 1px solid #123e5d;
+    border-bottom: 6px solid #03132f;
+    padding: 7px 10px;}
+
+.clica:hover {
+    background: #123e5d;
+    position: relative;
+    top: 2px;
+    border-bottom: 3px solid #03132f;
+}
