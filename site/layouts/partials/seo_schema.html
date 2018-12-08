@@ -8,9 +8,9 @@
     "name": "{{ .Site.Title }}",
     "author": {
         "@type": "Person",
-        "name": "{{ .Title }}"
-    },
-    "description": "{{ .Site.Params.description }}",
+        "name": "{{ .Title }}",
+
+    "description": "{{ .Site.Params.description }}"
 }
 </script>
 {{ end }} 
@@ -21,8 +21,8 @@
     "@type" : "BlogPosting",
     "mainEntityOfPage": {
          "@type": "WebPage",
-         "@id": "{{ .Site.BaseURL }}"
-    },
+         "@id": "{{ .Site.BaseURL }}",
+    
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
     "headline" : "{{ .Title }}",
