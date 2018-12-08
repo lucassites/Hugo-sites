@@ -7,4 +7,4 @@ Disallow: /autores/
 {{ range where .Data.Pages "Params.robotsdisallow" true }}
 Disallow: {{ .RelPermalink }}
 {{ end }}
-Sitemap: {{ "sitemap.xml" | absLangURL }}
+Sitemap: {{ $.Site.BaseURL }}/sitemap.xml
