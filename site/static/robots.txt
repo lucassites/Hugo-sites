@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /admin/
-Sitemap: https://www.7do2.eu.org/sitemap.xml
+{{ range where .Data.Pages "Params.robotsdisallow" true }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
