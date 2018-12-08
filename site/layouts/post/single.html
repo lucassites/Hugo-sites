@@ -21,7 +21,7 @@
 	 <span class="tags"><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">#{{ . }}</a></span>
 	 {{ end }}</div>
 <span class="pull-right">
-        {{ partial "share.html" . }}
+        {{ partial "share" . }}
       </span>
     {{ .Render "author-figure" }}
 
