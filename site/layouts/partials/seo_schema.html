@@ -5,6 +5,13 @@
 {
   "@context": "http://schema.org",
   "@type": "Organization",
+  "name": "{{ .Title }}",
+ "legalName" : "{{ .Title }}",
+ "url": "{{ .Permalink }}",
+ "logo": "https://d33wubrfki0l68.cloudfront.net/77db38137fb2831068ed79723d769582998f2fd1/41f8a/img/logo-7do2.png",
+ "foundingDate": "2018",
+ "founders": [
+ {
 }
 </script>
 {{ end }} 
@@ -21,7 +28,7 @@
     "name" : "{{ .Title }}",
     "headline" : "{{ .Title }}",
     // "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
-    "description" : "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}"
+    "description" : "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
     "inLanguage" : "{{ .Lang }}",
     "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
