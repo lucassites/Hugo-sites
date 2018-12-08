@@ -29,7 +29,7 @@
     "inLanguage" : "{{ .Lang }}",
     "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "publisher": "Blog 7do2",
+    "publisher": "{{ .Site.BaseURL }}",
     "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
