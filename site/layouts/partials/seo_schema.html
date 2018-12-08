@@ -1,1 +1,56 @@
+<!-- JSON-LD -->
+{{ if .IsHome }}
+{{/* Values are set in your site's configuration file */}}
 
+{{ with .Site.Params.schema.organization.name }}
+  {{ $.Scratch.SetInMap "jsonLD" "name" (printf "\"name\": \"%s\"" . ) }}
+{{ end }}
+
+{{ with .Site.Params.schema.organization.url }}
+  {{ $.Scratch.SetInMap "jsonLD" "url" (printf "\"url\": \"%s\"" . ) }}
+{{ else }}
+  {{ $.Scratch.SetInMap "jsonLD" "url" (printf "\"url\": \"%s\"" .Site.BaseURL ) }}
+{{ end }}
+
+{{ with .Site.Params.schema.organization.logo }}
+  {{ $.Scratch.SetInMap "jsonLD" "logo" (printf "\"logo\": \"%s\"" (absURL .) ) }}
+{{ end }}
+
+{{ with .Site.Params.social }}
+{{ $.Scratch.Add "sameAs" "\"sameAs\": [\"" }}
+  {{ range . }}
+    {{ range $key, $value := . }}
+      {{ if in $key "URL" }}
+      {{ $.Scratch.SetInMap "socialURLs" $key $value }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with ($.Scratch.Get "socialURLs") }}
+    {{ $.Scratch.Add "sameAs" (delimit . "\",\n\"") }}
+  {{end}}
+  {{ $.Scratch.Add "sameAs" "\"]" }}
+{{ end }}
+
+{{ if ($.Scratch.Get "socialURLs") }}
+  {{ $.Scratch.SetInMap "jsonLD" "sameAs" ($.Scratch.Get "sameAs") }}
+{{ end }}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  {{ delimit ($.Scratch.Get "jsonLD") ",\n" | printf "%s" | safeJS }}
+}
+</script>
+{{ end }} 
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}
+  }
+}
+</script>
+{{ end }}
