@@ -2,6 +2,7 @@
 title: Políticas do site
 description: Página de políticas do site 7do2
 image: ''
+robotsdisallow: true
 ---
 ## Políticas de privacidade
 
