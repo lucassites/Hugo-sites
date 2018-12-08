@@ -13,3 +13,7 @@ keywords = "Economia, finanças pessoais, Educacao financeira, investimentos int
 author = "autores"
 category = "categorias"
 tag = "tags"
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
