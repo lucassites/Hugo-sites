@@ -1,4 +1,6 @@
 ---
+title: Lucas Freitas
+description: Sou apaixonado por informações que agregam de alguma forma positiva as nossas vidas.
 name: Lucas Freitas
 photo_url: '/img/autor-lucas.jpg'
 Twitter: '[@ludsgn](https://twitter.com/ludsgn)'
