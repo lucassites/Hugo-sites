@@ -28,7 +28,7 @@
             "description": "{{ .Description }}",
             "author": {
                 "@type": "Organization",
-                "name": "{{ .Site.Params.author }}"
+                "name": "{{ .Title }}"
             }
          }
         {{ else }}
@@ -39,7 +39,7 @@
           "name": "{{ .Title }}",
            "author": {
               "@type": "Organization",
-              "name": "{ .Site.Params.author }}"
+              "name": "{ .Params.name }}"
             },
           "description": "{ .Site.Params.description }}",
         }
