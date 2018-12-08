@@ -14,15 +14,15 @@
 {{ end }} 
 {{ if .IsPage }}
 <div itemscope itemtype="http://schema.org/NewsArticle">
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://google.com/article"/>
+    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ .Site.BaseURL }}>
     <h2 itemprop="headline">{{ .Title }}</h2>
     <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
 por <span itemprop="name">7do2</span>
     </h3>
     <span itemprop="description">{{ .Summary }}</span>
     <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-        <img src="https://google.com/thumbnail1.jpg"/>
-        <meta itemprop="url" content="https://7do2.netlify.com/img/caf%c3%a9.png">
+        <img src="https://7do2.netlify.com/img/caf%c3%a9.png"/>
+        <meta itemprop="url" content="{{ .Site.BaseURL }}">
         <meta itemprop="width" content="660">
         <meta itemprop="height" content="440">
     </div>
