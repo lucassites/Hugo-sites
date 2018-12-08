@@ -47,7 +47,7 @@
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
     "mainEntityOfPage": "{{ .Site.Params.description }}",
-     "logo" : "https://d33wubrfki0l68.cloudfront.net/77db38137fb2831068ed79723d769582998f2fd1/41f8a/img/logo-7do2.png"
+     "logo" : "https://d33wubrfki0l68.cloudfront.net/77db38137fb2831068ed79723d769582998f2fd1/41f8a/img/logo-7do2.png",
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} {{with .Site.Title}}"{{ .}}"{{ end }}]
 }
 </script>
