@@ -7,9 +7,9 @@
     "name" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "headline" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "description" : "{{ .Site.Params.description }}",
-    "inLanguage" : "{{ .Site.Params.locale }}",
-    "author" : "{{ .Site.Params.author }}",
-    "creator" : "{{ .Site.Params.author }}",
+    "inLanguage" : "{{ .Site.LanguageCode }}",
+    "author" : "{{ .Site.Title }}",
+    "creator" : "{{ .Site.Title }}",
     "accountablePerson" : "{{ .Site.Params.accountableperson }}",
     "copyrightHolder" : "{{ .Site.Params.entityname }}",
     "copyrightYear" : "{{ .Site.LastChange.Format "2006" }}",
@@ -17,7 +17,7 @@
     "dateModified" : "{{ .Date }}",
     "url" : "{{ .Permalink }}",
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} {{with .Site.Title}}"{{ .}}"{{ end }}],
-    "image" : [ {{ range $i, $e := $.Site.Data.general.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }} ]
+    "image" : "{{ .Params.avatar }}"
 }
 </script>
 {{ end }} 
@@ -32,8 +32,9 @@
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
     "inLanguage" : "{{ .Site.Params.locale }}",
     "license" : "/license",
-    "author" : "{{ .Site.Params.author }}",
+    "author" : "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
     "creator" : "{{ .Site.Params.author }}",
+    "publisher": "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}"
     "accountablePerson" : "{{ .Site.Params.accountableperson }}",
     "copyrightHolder" : "{{ .Site.Params.entityname }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
