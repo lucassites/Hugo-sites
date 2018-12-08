@@ -17,3 +17,5 @@ tag = "tags"
   ChangeFreq = "daily"
   Priority = "1"
   filename = "sitemap.xml"
+[Author]  
+  name = "7do2"
