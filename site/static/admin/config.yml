@@ -29,7 +29,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
+          - {label: Description, name: description, widget: string,required: false}
                     
       - file: "site/content/politicas/_index.md"
         label: "politica"
