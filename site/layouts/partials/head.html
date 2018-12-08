@@ -1,5 +1,4 @@
 <head>
-
 	<title>{{ .Title }} | Blog especializado em finanças</title>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -22,8 +21,9 @@
         <meta content="327700103966602" property="fb:app_id">
 
 
-   <meta name="og:keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ end }}" />
+    <meta name="og:keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ end }}" />
     <meta name="robots" content="noodp"/>
+    {{ with .Params.robotsdisallow }}<meta name="robots" content="noindex, nofollow, noarchive">{{ end }}
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <!-- Twitter Card -->
