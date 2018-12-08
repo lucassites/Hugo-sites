@@ -34,7 +34,7 @@
     "license" : "/license",
     "author" : "{{ .Site.Title }}",
     "creator" : "{{ .Site.Title }}",
-    "publisher": "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}"
+    "publisher": "{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
     "accountablePerson" : "{{ .Site.Title }}",
     "copyrightHolder" : "{{ .Site.Title }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
