@@ -2,3 +2,7 @@
 /assets/*
    # Headers for that path:
    Cache-Control: public, max-age=360000 
+ [[headers]]
+  for = "*.png" # png files too
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
