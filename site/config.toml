@@ -5,7 +5,7 @@ title = "7do2"
 post = "/:title"
   # Nome Disqus
   disqusShortname = "7do2"
-  enableRobotsTXT = true
+  enableRobotsTXT = "true"
   [params]
 description = "O blog que da uma luz para as suas finanças pessoais, com boas dicas e materiais completos para você!"
 keywords = "Economia, finanças pessoais, Educacao financeira, investimentos inteligentes"
