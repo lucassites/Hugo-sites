@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://7do2.netlify.com/*        https://www.7do2.eu.org/:splat 301
+https://7do2.netlify.com/*        https://www.7do2.eu.org/:splat 301!
