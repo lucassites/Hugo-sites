@@ -17,6 +17,7 @@
 {
   "@context": "http://schema.org",
   "@type": "Article",
+  "image": "https://d33wubrfki0l68.cloudfront.net/77db38137fb2831068ed79723d769582998f2fd1/41f8a/img/logo-7do2.png",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ .Site.BaseURL }}"
@@ -26,11 +27,11 @@
     "headline" : "{{ .Title }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
     "inLanguage" : "{{ .Site.LanguageCode }}",
-    "author" : "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
-    "creator" : "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
-    "publisher": "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
-    "accountablePerson" : "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
-    "copyrightHolder" : "{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
+    "author" : "{{ range .Params.author }}{{ end }}",
+    "creator" : "{{ range .Params.author }}{{ end }}",
+    "publisher": "{{ range .Params.author }}{{ end }}",
+    "accountablePerson" : "{{ range .Params.author }}{{ end }}",
+    "copyrightHolder" : "{{ range .Params.author }}{{ end }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "datePublished": "{{ .Date }}",
     "dateModified" : "{{ .Date }}",
