@@ -16,7 +16,7 @@
     "datePublished": "{{ .Date }}",
     "dateModified" : "{{ .Date }}",
     "url" : "{{ .Permalink }}",
-    "keywords" : [ {{ range $i, $e := .Site.Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} ],
+    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} {{with .Site.Title}}"{{ .}}"{{ end }}],
     "image" : [ {{ range $i, $e := $.Site.Data.general.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }} ]
 }
 </script>
@@ -42,7 +42,7 @@
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
     "image" : {{ apply .Params.images "absURL" "." }},
-    "keywords" : [ {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} ]
+    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} {{with .Site.Title}}"{{ .}}"{{ end }}]
 }
 </script>
 {{ end }}
