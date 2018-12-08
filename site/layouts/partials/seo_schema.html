@@ -1,41 +1,7 @@
 <!-- JSON-LD -->
 {{ if .IsHome }}
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "{{ .Title }}",
- "legalName" : "{{ .Title }}",
- "url": "{{ .Permalink }}",
- "logo": "https://d33wubrfki0l68.cloudfront.net/77db38137fb2831068ed79723d769582998f2fd1/41f8a/img/logo-7do2.png",
-}
-</script>
 {{ end }} 
 {{ if .IsPage }}
-<div itemscope itemtype="http://schema.org/NewsArticle">
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ .Site.BaseURL }}>
-    <h2 itemprop="headline">{{ .Title }}</h2>
-    <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
-por <span itemprop="name">7do2</span>
-    </h3>
-    <span itemprop="description">{{ .Summary }}</span>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-        <img src="https://7do2.netlify.com/img/caf%c3%a9.png"/>
-        <meta itemprop="url" content="{{ .Site.BaseURL }}">
-        <meta itemprop="width" content="660">
-        <meta itemprop="height" content="440">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-            <img src="https://d33wubrfki0l68.cloudfront.net/77db38137fb2831068ed79723d769582998f2fd1/41f8a/img/logo-7do2.png"/>
-            <meta itemprop="url" content="https://d33wubrfki0l68.cloudfront.net/77db38137fb2831068ed79723d769582998f2fd1/41f8a/img/logo-7do2.png">
-            <meta itemprop="width" content="252">
-            <meta itemprop="height" content="168">
-        </div>
-        <meta itemprop="name" content="7do2">
-    </div>
-    <meta itemprop="datePublished" content="{{ .Date }}"/>
-    <meta itemprop="dateModified" content="{{ .Date }}"/>
-</div>
+
 {{ end }}
