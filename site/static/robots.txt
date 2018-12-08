@@ -1,5 +1,9 @@
 User-agent: *
 Disallow: /admin/
+Disallow: /404/
+Disallow: /tags/
+Disallow: /categorias/
+Disallow: /autores/
 {{ range where .Data.Pages "Params.robotsdisallow" true }}
 Disallow: {{ .RelPermalink }}
 {{ end }}
