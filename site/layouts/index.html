@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ range where .Data.Pages "Params.robotsdisallow" true }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
 <div hidden="true"><p>O blog que da uma luz para as suas finanças pessoais, com boas dicas e materiais completos para você!}</p></div>
 {{ partial "jumbotron" (dict "imageUrl" "/img/seo-7do2.jpg" "title" "7do2" "subtitle" "O blog que da uma luz para as suas finanças pessoais, com boas dicas e materiais completos para você!") }}
 
