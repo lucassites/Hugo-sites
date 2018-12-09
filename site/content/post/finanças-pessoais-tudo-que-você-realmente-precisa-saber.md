@@ -84,7 +84,7 @@ Entender seus próprios itens de despesas irá encorajá-lo a ser mais econômic
 
 ### \- Elimine compras espontâneas
 
-Os modernos sistemas de <a href="https://marketingdeconteudo.com/o-que-e-marketing/" target="_blank" rel="follow">marketing</a> visam estimular constantemente as compras. 
+Os modernos sistemas de <a href="https://marketingdeconteudo.com/o-que-e-marketing/" target="_blank" rel="noopener" rel="follow">marketing</a> visam estimular constantemente as compras. 
 
 Quanto mais rápido você tomar uma decisão, mais fácil será gastar o dinheiro. Ter um plano financeiro pessoal tornará mais fácil para você resistir a gastos emocionais. 
 
