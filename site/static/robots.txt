@@ -4,7 +4,5 @@ Disallow: /404/
 Disallow: /tags/
 Disallow: /categorias/
 Disallow: /autores/
-{{ range where .Data.Pages "Params.robotsdisallow" true }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
+
 Sitemap: https://7do2.eu.org/sitemap.xml
