@@ -117,3 +117,61 @@ Atualmente, foram desenvolvidos programas e aplicativos que permitem simplificar
 
 Baixe um ou mais aplicativos para o seu celular e escolha o que mai lhe agradar. Escolha da maneira mais adequada e crie o hábito de usá-los regularmente.
 
+# A complexidade das finanças pessoais
+
+O problema de contabilizar as finanças pessoais para muitas pessoas é a relutância em lidar com elas. Você precisa registrar seus gastos, analisá-los, elaborar um orçamento e cumpri-lo. Tudo isso parece ser uma tarefa árdua e exige um esforço considerável, mas é o básico.
+
+Pessoas ricas podem contratar um assistente ou assessor financeiro que fará as tarefas por eles. Se você tem uma renda pequena ou média, ainda precisa assumir essas funções. Caso contrário, os bancos e o Estado cuidarão de você de tal maneira que você ficará sem um centavo no futuro e muitos dependerão de uma aposentadoria ruim.
+
+## O Jogo do dinheiro é para todos
+
+Para fazer algo sem esforço, você precisa fazer isso com interesse. A partir do momento em que surgiu o primeiro dinheiro, o mundo inteiro joga o jogo “Quem deve quem?”. 
+
+Alguns fazem isso consciente e entusiasticamente, outros são forçados a jogar de acordo com as regras de outras pessoas e perdem constantemente. 
+
+Torne as suas finanças pessoais num jogo emocionante, invente as suas combinações (dentro da lei) e vença.
+
+## Aumente o seu conhecimento
+
+O gasto adequado de fundos pessoais contribui para melhorar o conhecimento financeiro. Infelizmente, isso não é ensinado na escola. Portanto, cada pessoa deve resolver esta questão de forma independente e por todos os meios transmitir os conhecimentos adquiridos aos seus filhos. 
+
+Assim, no mundo moderno, será possível desenvolver pelo menos uma parte de uma geração capaz de resolver sozinho os problemas materiais.
+
+Os bancos e o governo veem na população apenas consumidores obedientes, nunca se interessarão pela independência dos cidadãos.
+
+### Autoeducação
+
+Esta é a primeira e mais barata forma de melhorar o seu conhecimento sobre finanças. Você já pagou pela Internet e há muitas informações úteis no domínio público. 
+
+Você só precisa investir seu tempo para alcançar o primeiro sucesso. Ao adotar algumas dicas simples, você pode liberar uma parte do seu dinheiro para investimentos adicionais em autodesenvolvimento.
+
+Talvez você esteja sem tempo algum sobrando, o que é uma consequência direta de cair em uma armadilha financeira. Em tal situação, comece com o gerenciamento do seu tempo pessoal.
+
+### Cursos de formação
+
+A educação tradicional, incluindo o ensino superior, é projetada para torná-lo um bom intérprete da vontade de outra pessoa. Em termos práticos, é útil apenas aprender como adquirir novos conhecimentos de forma independente. E o processo de auto-educação é necessário para continuar o resto de sua vida.
+
+Existem seminários que são projetados a curto prazo para fornecer informação o máximo de informação útil sobre um tópico limitado. Em tal seminário, uma pessoa com experiência prática concede-lhe, de forma concentrada, informações sobre como obter o mesmo resultado, contornando os erros pioneiros. 
+
+Se você já sabe como ganhar mais do que gastar, não deixe de participar de cursos pagos para melhorar a alfabetização financeira.
+
+### Cursos sobre finanças pessoais grátis
+
+Agora existem muitas ofertas diferentes no mercado de negócios. Seminários gratuitos também são difundidos, organizados por empresas de <a href="https://neilpatel.com/br/blog/marketing-de-rede/" target="_blank" rel="noopener" rel="follow">marketing de rede</a>. 
+
+
+Com a abordagem certa, o investimento em sua própria formação vale muito. Este caminho é impossível passar sem erros, mas são eles que vão dar a experiência mais valiosa que você não pode reunir, relendo livros inteligentes pelo menos uma centena de vezes. Apenas a ação traz para o resultado.
+
+## Conclusão
+
+Mesmo se você não tiver dinheiro excedente, você deve ter um plano para o momento em que eles aparecem. Caso contrário, todos os fundos "extras" serão invariavelmente corroídos. Coloque-o em um envelope e eles perderão seu valor todos os dias, de acordo com as leis econômicas vigentes nos tempos modernos.
+
+Os primeiros passos de um investidor iniciante estão descritos em no artigo "Investimento em finanças pessoais". Hoje em dia, todos devem se tornar investidores para poder economizar e aumentar os ganhos.
+
+Investidores de nível superior usam o dinheiro de outras pessoas para criar ativos que lhes trarão renda. Isso inclui seus fundos em um depósito bancário ou em um fundo de pensão. 
+
+Para aprender a administrar o dinheiro de outras pessoas, você precisa passar por uma fase de tentativa e erro. Para fazer isso, é preciso ter suas próprias economias para experimentar.
+
+Ao mostrar atenção e respeito pelas finanças pessoais , você tem a oportunidade de ganhar o controle sobre sua própria vida e transformá-la na direção desejada. 
+
+A frase “dinheiro atrai dinheiro” não foi inventada por acaso. Quando você é o mestre da sua vida e está sintonizado com a riqueza, você começa a ver mais e mais oportunidades de renda adicional sem esforço significativo. Outras pessoas com dinheiro também mostrarão interesse em você para aumentar a riqueza delas.
