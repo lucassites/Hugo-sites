@@ -3,9 +3,9 @@
 	<title>{{ .Title }} | Blog de finanças</title>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" />
-	</Helmet>
+	
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
 	<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
@@ -44,5 +44,5 @@
     {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />{{ end }}
     
     {{ partial "seo_schema" . }}
-    
+    </Helmet>
 </head>
