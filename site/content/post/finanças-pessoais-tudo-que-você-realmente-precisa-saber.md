@@ -23,7 +23,7 @@ O dinheiro é uma das ferramentas usadas na economia do estado, sédulas ou moed
 
 Em essência, é um bilhete de dívida que tem um preço, desde que haja a confiança dos cidadãos no estado. O mesmo princípio está subjacente a todas as moedas mundiais.
 
-![Definição de finanças e dinheiro](/img/definicao-financas.png "Definição de finanças e dinheiro")
+![Definição de finanças e dinheiro](/img/definicao-financas.png?height=371px&width=660px "Definição de finanças e dinheiro")
 
 Finanças é dinheiro em circulação , o que lhes permite criar outros tipos de recursos. Enquanto eles estiverem na sua carteira, eles são considerados dinheiro pessoal. Se eles começam a dar lucro, então não é mais apenas dinheiro, mas recursos financeiros.
 
