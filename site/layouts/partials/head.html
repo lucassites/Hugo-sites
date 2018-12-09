@@ -1,5 +1,4 @@
 <head>
-	<Helmet>
 	<title>{{ .Title }} | Blog de finanças</title>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -44,5 +43,5 @@
     {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />{{ end }}
     
     {{ partial "seo_schema" . }}
-    </Helmet>
+
 </head>
