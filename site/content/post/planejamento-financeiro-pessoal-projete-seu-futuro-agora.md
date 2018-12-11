@@ -112,3 +112,5 @@ O planejamento financeiro pessoal pode ser comparado também com um navegador GP
 
 Então você só precisa seguir o caminho, admirando as vistas que passam pela janela - o GPS irá levá-lo e às vezes lhe passar uma informação: "vire à direita depois de trezentos metros". 
 
+<img src="/img/conduzir-financas.png" alt="Conduzir suas finanças" title="Conduzir suas finanças" width="660px" height="440px">
+
