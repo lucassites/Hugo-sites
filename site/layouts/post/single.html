@@ -25,12 +25,19 @@
 
   </article>	
 <div class="related">
-	{{ range .Params.tags }}
-<h4>Similar articles:</h4>
-<ul>
-	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-</ul>
-{{ end }}
+<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			{{ range first 6 (where .Data.Pages "Type" "post") }}
+				<div class="ph1-ns w-50-ns flex">
+				<a href="{{ .Permalink }}" class="no-underline pa3 br1 mb2 db raise w-100">
+
+ 
+<h4 class="f3 b lh-title mb1 primary">{{ .Title }}</h4>
+
+<p class="mb0">{{ .Description }}</p>
+	
+</a>
+				</div>
+			{{ end }}
 </div>
   {{ end }}
  
