@@ -123,7 +123,7 @@ Então você só precisa seguir o caminho, admirando as vistas que passam pela j
 
 
 
-\## Criando um plano financeiro pessoal
+## Criando um plano financeiro pessoal
 
 Gostaria de dizer que o ditado “Tempo é dinheiro” é perfeito para a elaboração de um plano financeiro pessoal. Quanto mais cedo você criar um plano financeiro pessoal e começar a implementá-lo, mais cedo poderá melhorar sua condição financeira e, possivelmente, obter independência financeira. Cada dia de atraso é uma perda significativa do seu dinheiro futuro!
 
