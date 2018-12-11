@@ -64,7 +64,7 @@ Porque eles não sabem sobre os principais elementos da estabilidade financeira,
 
 A maioria dos problemas que são revelados nesse estágio podem ser agrupados em três categorias:
 
-* Instabilidade financeira
+* **Instabilidade financeira**
 
 Primeiro - você precisa ter uma reserva de liquidez em dinheiro. Esta é uma reserva de emergência de dinheiro no caso de a família perder sua renda por um tempo, ou é subitamente necessário **pagar despesas imprevistas**. Uma queda acentuada nos lucros das empresas, uma demissão repentina ou uma doença prolongada são exemplos de tais eventos. 
 
@@ -72,7 +72,7 @@ Em segundo lugar, a família precisa  do seguro de vida do sobrevivente em caso 
 
 Finalmente, a família precisa de um programa de poupança regular e um plano de investimento eficaz. Em seguida, a família poderá **criar o capital que ajudará** a atingir suas metas financeiras pretendidas.
 
-* Baixa liquidez
+* **Baixa liquidez**
 
 Mesmo que a família tenha ativos sérios, é comum que esses ativos sejam ilíquidos. Eles não podem ser rapidamente convertidos em dinheiro para que a família possa resolver o problema que surge de repente. 
 
@@ -82,7 +82,7 @@ Da mesma forma, na ausência de liquidez, a família não poderá usar oportunid
 
 Ambos os cenários afetam negativamente o futuro financeiro da família. E, portanto, é necessário manter a liquidez no nível adequado.
 
-* Alocação incorreta de ativos
+* **Alocação incorreta de ativos**
 
 Por muitos anos no Brasil vivemos em condições de instabilidade e inflação alta. E assim as economias de muitas famílias são representadas por dinheiro em contas bancárias e imóveis. Não há mais investimento das famílias.
 
@@ -98,18 +98,18 @@ Em certo sentido, a elaboração de um plano de <a href="https://www.7do2.eu.org
 
 ### \- Você precisa de um plano para atingir o objetivo
 
-Por exemplo, você define o objetivo de ter um bom capital aos 50 anos, o que proporcionará uma renda de 10.000 reais todos os meses com uma taxa de retorno livre de risco. O que você precisa fazer para resolver o problema?
+Por exemplo, você define o objetivo de ter um bom capital aos 50 anos, o que proporcionará uma **renda de 10.000 reais** todos os meses com uma taxa de retorno livre de risco. O que você precisa fazer para resolver o problema?
 
 Como parte do planejamento financeiro pessoal, o capital que você precisa aos 50 anos será calculado. Além disso, levando em conta sua atitude em relação ao risco, a estrutura da carteira de investimentos será formada e essa estrutura determinará a taxa de retorno realista que sua carteira de investimento fornecerá durante o período de acumulação.
 
-A taxa de retorno e o prazo da poupança determinarão o valor que você precisa investir mensalmente para criar o capital necessário. Depois disso, um plano de investimento será aberto, calcule o valor que você precisa investir mensalmente
+A taxa de retorno e o prazo da poupança determinarão o valor que você precisa investir mensalmente para **criar o capital necessário**. Depois disso, um plano de investimento será aberto, calcule o valor que você precisa investir mensalmente
  e distribua esse valor nas proporções exigidas entre os ativos selecionados na carteira.
 
 ### \- Tem a certeza que os objetivos são alcançáveis?
 
 A vantagem mais importante do planejamento financeiro é a sua confiança de que suas metas financeiras serão alcançadas e atingidas no momento certo no futuro. Isto é provado diretamente pelos cálculos feitos no processo de planejamento financeiro pessoal. 
 
-Assim, você encontra por si mesmo o mesmo equilíbrio entre "agora" e "depois". Dia após dia você deve viver com liberdade, e silenciosamente gastar todo o dinheiro que sobra depois investimento mensal. Sabendo que seus problemas financeiros mais importantes a longo prazo são resolvidos automaticamente.
+Assim, você encontra por si mesmo o mesmo equilíbrio entre "agora" e "depois". Dia após dia você deve **viver com liberdade**, e silenciosamente gastar todo o dinheiro que sobra depois investimento mensal. Sabendo que seus problemas financeiros mais importantes a longo prazo são resolvidos automaticamente.
 
 Assim, transformar tarefas financeiras grandes, complexas e de longo prazo em uma cadeia de ações elementares que são feitas facilmente no tempo no piloto automático após um tempo é a vantagem mais importante que o planejamento financeiro pessoal oferece.
 
@@ -121,15 +121,13 @@ Então você só precisa seguir o caminho, admirando as vistas que passam pela j
 
 <img src="/img/conduzir-financas.png" alt="Conduzir suas finanças" title="Conduzir suas finanças" width="660px" height="440px">
 
-
-
 ## Criando um plano financeiro pessoal
 
-Gostaria de dizer que o ditado “Tempo é dinheiro” é perfeito para a elaboração de um plano financeiro pessoal. Quanto mais cedo você criar um plano financeiro pessoal e começar a implementá-lo, mais cedo poderá melhorar sua condição financeira e, possivelmente, obter independência financeira. Cada dia de atraso é uma perda significativa do seu dinheiro futuro!
+Gostaria de dizer que o ditado “Tempo é dinheiro” é perfeito para a elaboração de um plano financeiro pessoal. **Quanto mais cedo você criar um plano financeiro pessoal e começar a implementá-lo**, mais cedo poderá melhorar sua condição financeira e, possivelmente, obter independência financeira. Cada dia de atraso é uma perda significativa do seu dinheiro futuro!
 
 1. estabelecer metas que sejam realistas e alcançáveis ​​com recursos existentes e planejados;
 2. se você tem dívidas - planeje alocar pelo menos 20% das receitas orçamentárias pessoais para pagar, tente pagar os empréstimos antes do prazo;
-3.  planejar alocar pelo menos 10% das receitas orçamentárias pessoais para a criação de reservas, poupanças e capital;
+3. planejar alocar pelo menos 10% das receitas orçamentárias pessoais para a criação de reservas, poupanças e capital;
 4. diversificar seus investimentos, tanto quanto possível, não investir todos os fundos em um instrumento financeiro;
 5. ao planejar, ajustar a inflação e possíveis riscos financeiros;
 6. Quanto mais cedo você definir metas financeiras e elaborar um plano financeiro pessoal, mais cedo poderá alcançá-las.
