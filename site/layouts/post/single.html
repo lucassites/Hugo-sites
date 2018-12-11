@@ -24,7 +24,14 @@
     {{ .Render "author-figure" }}
 
   </article>	
-<div class="related">{{ partial "related" . }}</div>
+<div class="related">
+	{{ range .Params.tags }}
+<h4>Similar articles:</h4>
+<ul>
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+</ul>
+{{ end }}
+</div>
   {{ end }}
  
      
