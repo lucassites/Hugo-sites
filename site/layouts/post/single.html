@@ -25,5 +25,7 @@
 
   </article>				
   {{ end }}
-
+   {{ if .Site.Params.Info.related }}
+      <div class="related">{{ partial "related" . }}</div>
+      {{ end }}
 
