@@ -110,5 +110,5 @@ Assim, transformar tarefas financeiras grandes, complexas e de longo prazo em um
 
 O planejamento financeiro pessoal pode ser comparado também com um navegador GPS. Você define o objetivo e escolhe a melhor rota para você.
 
-Então você só tem que ir direto, admirando as vistas que passam pela janela - o GPS irá levá-lo e às vezes lhe passa uma informação: "vire à direita depois de trezentos metros". 
+Então você só precisa seguir o caminho, admirando as vistas que passam pela janela - o GPS irá levá-lo e às vezes lhe passar uma informação: "vire à direita depois de trezentos metros". 
 
