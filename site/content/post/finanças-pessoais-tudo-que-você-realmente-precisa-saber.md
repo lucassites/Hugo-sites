@@ -1,5 +1,5 @@
 ---
-title: 'Finanças pessoais: o que você precisa saber hoje'
+title: 'Finanças pessoais: você precisa saber mais sobre isso hoje'
 url: financas-pessoais
 autores:
   - Lucas Freitas
