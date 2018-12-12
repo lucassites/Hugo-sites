@@ -1,5 +1,5 @@
 ---
-title: Planejamento financeiro pessoal - projete seu futuro agora
+title: 'Planejamento financeiro pessoal: projete seu futuro'
 url: planejamento-financeiro-pessoal
 autores:
   - Lucas Freitas
