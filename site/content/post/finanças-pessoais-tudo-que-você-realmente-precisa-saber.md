@@ -38,7 +38,7 @@ Hiperinflação, desvalorização, corrupção - todos esses e outros eventos de
 
 Um olhar para suas economias e rendas, como finanças, abre oportunidades não apenas para salvá-las, mas também para aumentá-las.
 
-# Controle de finanças pessoais
+## Controle de finanças pessoais
 
 A administração sempre começa com a contabilidade. O fato de prestar atenção ao problema é um incentivo para melhorar a situação. 
 
@@ -46,7 +46,7 @@ Assim que você começa a contar as despesas, elas começam a declinar automatic
 
 O controle das finanças pessoais inclui uma nova abordagem para a alocação do orçamento. Determinar a estrutura da distribuição de ganhos ajudará o método de 50-30-20.
 
-## Método 50-30-20
+### Método 50-30-20
 
 Este método é bom porque é muito fácil de lembrar. Sua essência é gastar **50%** de todos os fundos de entrada para necessidades necessárias (alimentação, hospedagem, contas de serviços públicos, transporte, etc.), **30%** para gastar em seus próprios prazeres e compras não relacionadas ao necessário (viajar, ir ao cinema , restaurantes e outros estabelecimentos) e **20%** dos fundos recebidos para economizar.
 
@@ -58,7 +58,7 @@ Este método é realmente muito bom, pois é adequado para muitas pessoas e perm
 
 Você tem um critério pelo qual você pode adiar ou até mesmo cancelar qualquer compra opcional, em prol do bem-estar futuro.
 
-## Despesas não planejadas
+### Despesas não planejadas
 
 Elas são as principais ameaças ao seu orçamento, e requerem atenção especial. 
 
@@ -69,7 +69,7 @@ Circunstâncias adversas nos obrigam a despesas sérias. Ao controlar o moviment
 
 Você pode sim ter um plano de ação para qualquer evento que venha afetar o seu orçamento, basta ter um fundo específico para isso.
 
-## Uso eficiente de dinheiro
+### Uso eficiente de dinheiro
 
 Vou lhe passar algumas dicas para ajudar você a usar fundos pessoais corretamente. 
 
@@ -77,13 +77,13 @@ Todas as pessoas ricas têm estratégias similares como parte de seu plano finan
 
 O pensamento de uma pessoa pobre levará a uma falta de dinheiro em qualquer nível de renda.
 
-### \- Acompanhe suas despesas
+#### \- Acompanhe suas despesas
 
 Pegue o mês passado de teste e registre todas as suas despesas. Você ficará surpreso com quanto dinheiro você gastou em coisas pequenas que poderia viver muito bem sem. 
 
 Entender seus próprios itens de despesas irá encorajá-lo a ser mais econômico e eficiente na gestão de suas finanças pessoais.
 
-### \- Elimine compras espontâneas
+#### \- Elimine compras espontâneas
 
 Os modernos sistemas de <a href="https://marketingdeconteudo.com/o-que-e-marketing/" target="_blank" rel="noopener" rel="follow">marketing</a> visam estimular constantemente as compras. 
 
@@ -91,17 +91,17 @@ Quanto mais rápido você tomar uma decisão, mais fácil será gastar o dinheir
 
 Antes de comprar qualquer coisa, pense muito se será algo realmente necessário para você e mantenha esse gasto dentro do 50-30-20.
 
-### \- Sempre salve uma parte de sua renda
+#### \- Sempre salve uma parte de sua renda
 
 É importante economizar parte de sua renda todo mês . e não conseguir os 20%, que seja pelo menos 10%, mas torne isso um hábito pessoal.
 
 Deste dinheiro, um fundo de segurança financeira é formado e, subsequentemente, os primeiros investimentos são feitos. Todas as pessoas ricas economizam e aumentam o capital, algumas delas economizam até 80% da renda recebida.
 
-### \- Economize dinheiro para um dia ruim
+#### \- Economize dinheiro para um dia ruim
 
 Mesmo que tal dia não chegue, é sempre necessário ter um fundo de segurança pessoal. Isso ajudará em caso de problemas com finanças, ou apenas o salvará de dívidas futuras. 
 
-### \- Sempre tenha uma estratégia
+#### \- Sempre tenha uma estratégia
 
 Todas as dicas descritas acima são componentes de um plano financeiro pessoal . Se você não tem um plano de riqueza, então você tem um plano de pobreza. 
 
@@ -112,19 +112,19 @@ Se você não tiver um plano de despesas, todas as suas compras serão espontân
 * Plano de despesas
 * Plano de investimentos
 
-### \- Use a tecnologia nas sua finanças pessoais
+#### \- Use a tecnologia nas sua finanças pessoais
 
 Atualmente, foram desenvolvidos programas e aplicativos que permitem simplificar significativamente a contabilidade das finanças pessoais.
 
 Baixe um ou mais aplicativos para o seu celular e escolha o que mai lhe agradar. Escolha da maneira mais adequada e crie o hábito de usá-los regularmente.
 
-# A complexidade das finanças pessoais
+## A complexidade das finanças pessoais
 
 O problema de contabilizar as finanças pessoais para muitas pessoas é a relutância em lidar com elas. Você precisa registrar seus gastos, analisá-los, elaborar um orçamento e cumpri-lo. Tudo isso parece ser uma tarefa árdua e exige um esforço considerável, mas é o básico.
 
 Pessoas ricas podem contratar um assistente ou assessor financeiro que fará as tarefas por eles. Se você tem uma renda pequena ou média, ainda precisa assumir essas funções. Caso contrário, os bancos e o Estado cuidarão de você de tal maneira que você ficará sem um centavo no futuro e muitos dependerão de uma aposentadoria ruim.
 
-## O Jogo do dinheiro é para todos
+### O Jogo do dinheiro é para todos
 
 Para fazer algo sem esforço, você precisa fazer isso com interesse. A partir do momento em que surgiu o primeiro dinheiro, o mundo inteiro joga o jogo “Quem deve quem?”. 
 
@@ -132,7 +132,7 @@ Alguns fazem isso consciente e entusiasticamente, outros são forçados a jogar 
 
 Torne as suas finanças pessoais num jogo emocionante, invente as suas combinações (dentro da lei) e vença.
 
-## Aumente o seu conhecimento
+### Aumente o seu conhecimento
 
 O gasto adequado de fundos pessoais contribui para melhorar o conhecimento financeiro. Infelizmente, isso não é ensinado na escola. Portanto, cada pessoa deve resolver esta questão de forma independente e por todos os meios transmitir os conhecimentos adquiridos aos seus filhos. 
 
@@ -140,7 +140,7 @@ Assim, no mundo moderno, será possível desenvolver pelo menos uma parte de uma
 
 Os bancos e o governo veem na população apenas consumidores obedientes, nunca se interessarão pela independência dos cidadãos.
 
-### Autoeducação
+#### Autoeducação
 
 Esta é a primeira e mais barata forma de melhorar o seu conhecimento sobre finanças. Você já pagou pela Internet e há muitas informações úteis no domínio público. 
 
@@ -148,7 +148,7 @@ Você só precisa investir seu tempo para alcançar o primeiro sucesso. Ao adota
 
 Talvez você esteja sem tempo algum sobrando, o que é uma consequência direta de cair em uma armadilha financeira. Em tal situação, comece com o gerenciamento do seu tempo pessoal.
 
-### Cursos de formação
+#### Cursos de formação
 
 A educação tradicional, incluindo o ensino superior, é projetada para torná-lo um bom intérprete da vontade de outra pessoa. Em termos práticos, é útil apenas aprender como adquirir novos conhecimentos de forma independente. E o processo de auto-educação é necessário para continuar o resto de sua vida.
 
@@ -156,7 +156,7 @@ Existem seminários que são projetados a curto prazo para fornecer informação
 
 Se você já sabe como ganhar mais do que gastar, não deixe de participar de cursos pagos para melhorar a alfabetização financeira.
 
-### Cursos sobre finanças pessoais grátis
+#### Cursos sobre finanças pessoais grátis
 
 Agora existem muitas ofertas diferentes no mercado de negócios. Seminários gratuitos também são difundidos, organizados por empresas de <a href="https://neilpatel.com/br/blog/marketing-de-rede/" target="_blank" rel="noopener" rel="follow">marketing de rede</a>. 
 
