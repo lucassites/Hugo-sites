@@ -1,17 +1,18 @@
 ---
-title: 'Finanças pessoais: Tudo que você realmente precisa saber'
+title: 'Finanças pessoais: o que você precisa saber hoje'
 url: financas-pessoais
 autores:
   - Lucas Freitas
 date: 2018-12-08T18:50:45.704Z
 description: >
-  Finanças pessoais é a soma de todo o dinheiro que uma determinada pessoa tem, 
-  na mão ou nos bancos. Inclui também instrumentos financeiros para atingir
-  determinados objetivos relacionados ao dinheiro. 
+  Finanças pessoais é a soma de todo o dinheiro que uma determinada pessoa tem.
+  Incluindo dispositivos financeiros para obter objetivos relacionados ao
+  dinheiro.
 image: /img/financas-pessoais.png
 tags:
   - Finanças
 type: post
+draft: false
 ---
 É importante lembrar que as finanças não são iguais ao dinheiro , pois finanças pessoais é a aplicação de conceitos financeiros e empresariais nas decisões do capital de uma pessoa.
 
