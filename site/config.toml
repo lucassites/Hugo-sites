@@ -1,4 +1,4 @@
-baseurl = "https://www.7do2.eu.org"
+baseurl = "https://www.7do2.eu.org/"
 languageCode = "pt-br"
 title = "7do2"
 [permalinks]
