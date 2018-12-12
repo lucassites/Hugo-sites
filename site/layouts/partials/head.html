@@ -17,14 +17,14 @@
 	<meta property="og:type" content="business.business">
 	<meta property="og:title" content="{{ .Title }}">
 	{{ if .IsHome }}<meta property="og:image" content="https://www.7do2.eu.org/img/blog-7do2.png">{{ end }}
-	{{ if .IsPage }}<meta property="og:image" content="https://www.7do2.eu.org{{ .Params.image }}">{{ end }}
+	{{ if .IsPage }}<meta property="og:image" content="{{ .Params.image }}">{{ end }}
 	<meta content="214198061947395" property="fb:admins">
         <meta content="327700103966602" property="fb:app_id">
 
     {{ if .IsHome }}<meta name="og:keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ end }}" />{{ end }}
     <meta name="robots" content="noodp"/>
     {{ with .Params.robotsdisallow }}<meta name="robots" content="noindex, nofollow, noarchive">{{ end }}
-    <link rel="canonical" href="https://www.7do2.eu.org{{ .Permalink }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
 	<meta name="google-site-verification" content="1LN7Q1FTHqCnWT7n5jAXX3Gubmn0oEpWtj7IHzDymhc" />
 
     <!-- Twitter Card -->
@@ -37,7 +37,7 @@
     <!-- OG data -->
     <meta property="og:locale" content="pt_BR" />
     <meta content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" property="og:description">
-    <meta property="og:url" content="https://www.7do2.eu.org{{ .Permalink }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     {{ range .Params.categories }}<meta property="article:section" content="{{ . }}" />{{ end }}
     {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ time .Date }}" />{{ end }}
