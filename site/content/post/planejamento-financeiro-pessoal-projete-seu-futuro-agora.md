@@ -5,10 +5,8 @@ autores:
   - Lucas Freitas
 date: 2018-12-11T17:14:16.959Z
 description: >-
-  O planejamento financeiro pessoal permite que uma pessoa use suas
-  oportunidades de maneira mais eficaz: economize dinheiro para as compras
-  necessárias, calcule suas oportunidades reais de crédito e garanta a
-  estabilidade financeira no futuro.
+  O planejamento financeiro pessoal é projetado para lhe fornecer um roteiro, o
+  que ajudará a entender a sua situação financeira atual.
 image: /img/planejamento-financeiro-pessoal.png
 tags:
   - Finanças
@@ -17,7 +15,7 @@ draft: false
 ---
 O **planejamento financeiro pessoal** é parte integrante da vida de qualquer pessoa. Sem planejamento financeiro na vida econômica de hoje, é impossível gerenciar adequadamente os fundos, criar capital, resolver problemas financeiros, etc. 
 
-O planejamento financeiro pessoal é projetado para fornecer uma pessoa um roteiro, o que ajuda a entender a situação financeira atual.
+O planejamento financeiro pessoal permite que uma pessoa use suas oportunidades de maneira mais eficaz: economize dinheiro para as compras necessárias, calcule suas oportunidades reais de crédito e garanta a estabilidade financeira no futuro.
 
 As medidas tomadas para implementar o plano financeiro são consistentes com essas metas. Tome, por exemplo, um casal aposentado. Se sua principal ou única fonte de renda é o investimento que criaram, então esses investimentos precisam ser estruturados mais para gerar renda corrente e, menos ainda, para o aumento de capital a longo prazo.
 
