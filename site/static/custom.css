@@ -168,3 +168,8 @@ h6 { font-size: .75em; }
   text-align: center;
   padding-bottom: 50px;
 }
+.ftfooter{
+  margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
