@@ -105,7 +105,9 @@ Após completar a planilha com seus ganhos e gastos você terá uma visão mais 
 
 Nem todo mundo tem um emprego regular com pagamento todos os meses numa data certa. Isso não significa que você não pode criar um orçamento familiar; mas significa que você precisa planejar com mais detalhes.
 
-Calcule a renda média da família e anote todo dinheiro que entra durante o dia. Dessa forma, você terá um valor fixo no final do dia. 
+Calcule a renda média da família e anote todo dinheiro que entra durante o dia. Dessa forma, você terá um valor fixo no final do dia.
+
+<img src="/img/orcamento-familiar-tabelas.png" alt="Orçamento familiar irregular" title="Orçamento familiar irregular" width="660px" height="440px"> 
 
 Isso também funciona, caso você faça muitas despesas durante o dia. Deixe tudo anotado para depois acrescentar na planilha somente o total.
 
