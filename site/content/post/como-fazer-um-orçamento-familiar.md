@@ -71,5 +71,5 @@ Não confunda mesquinhez com planejamento de custos. Estabeleça metas e aprenda
 
 Seja realista nos planos e calcule suas capacidades financeiras. Baixe a planilha para metas familiares e use-a como um guia.
 
-<a class="center" href="/baixar/metas-familia.xlsx" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a tabela de metas de orçamento familiar no Excel</b></button></a>
+<a href="/baixar/metas-familia.xlsx" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a tabela de metas de orçamento familiar no Excel</b></button></a>
 
