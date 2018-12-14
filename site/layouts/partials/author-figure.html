@@ -1,7 +1,7 @@
 <figure>
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     <figcaption>
-      <img class="portrait" src="{{ .Params.avatar }}" alt="" />
+      <img class="portrait" src="{{ .Params.avatar }}" alt="{{ .Params.name }}" />
     <h5 class="card-title" itemprop="name"><a href="{{ .Permalink }}" class="block-link">{{ .Params.name }}</a></h5>
 <p class="card-subtitle">
       {{ .Summary }}
