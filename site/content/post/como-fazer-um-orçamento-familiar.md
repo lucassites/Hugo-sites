@@ -5,9 +5,9 @@ autores:
   - Lucas Freitas
 date: 2018-12-13T23:01:03.105Z
 description: >-
-  O orçamento familiar ajudará você a descobrir metas de curto e longo prazo,
-  evitando que gaste com qualquer coisa. Assim poderá economizar e tirar as
-  férias tão esperadas.
+  Orçamento familiar lhe ajuda a descobrir metas de curto e longo prazo,
+  evitando gastos com qualquer coisa. Assim, poderá economizar para as férias
+  tão sonhadas.
 image: /img/orcamento-familiar.png
 tags:
   - Planilhas
