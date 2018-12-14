@@ -8,11 +8,12 @@ description: >-
   O orçamento familiar ajudará você a descobrir metas de curto e longo prazo,
   evitando que gaste com qualquer coisa. Assim poderá economizar e tirar as
   férias tão esperadas.
+image: /img/orcamento-familiar.png
 tags:
   - Tabelas
   - orçamento
 type: post
-draft: true
+draft: false
 ---
 Vários métodos práticos para o orçamento familiar, que damos aqui, podem servir como um guia aproximado para a sua tomada de decisões. 
 
