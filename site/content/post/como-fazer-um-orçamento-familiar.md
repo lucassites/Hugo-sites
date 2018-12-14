@@ -69,9 +69,9 @@ Não confunda mesquinhez com planejamento de custos. Estabeleça metas e aprenda
 
 <img src="/img/tabela-metas-familiar.png" alt="Metas orçamento familiar - planilha" title="Metas orçamento familiar - planilha" width="660px" height="361px">
 
-Seja realista nos planos e calcule suas capacidades financeiras. Baixe a planilha para metas familiares e use-a como um guia.
-
 <a href="/baixar/metas-familia.xlsx" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a planilha de metas de orçamento familiar no Excel</b></button></a>
+
+Seja realista nos planos e calcule suas capacidades financeiras. Baixe a planilha para metas familiares e use-a como um guia.
 
 ### Passo 2: Determinar as receitas e despesas do orçamento familiar
 
