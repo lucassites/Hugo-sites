@@ -173,3 +173,6 @@ h6 { font-size: .75em; }
     margin-left: auto;
     display: flex;
 }
+.svg {
+  height: 0; width: 0; position: absolute; visibility: hidden;
+ }
