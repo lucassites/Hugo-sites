@@ -1,5 +1,5 @@
 ---
-title: Como fazer um orçamento familiar e tabelas para download
+title: Como fazer um orçamento familiar e planilhas para download
 url: orcamento-familiar
 autores:
   - Lucas Freitas
@@ -10,7 +10,7 @@ description: >-
   férias tão esperadas.
 image: /img/orcamento-familiar.png
 tags:
-  - Tabelas
+  - Planilhas
   - orçamento
 type: post
 draft: false
@@ -51,13 +51,13 @@ Organizar a estrutura de despesas e receitas não é tarefa difícil e tediosa, 
 **Caderno e caneta:** Tudo que for notar pode passar antes por um rascunho. Colocar tudo no papel antes, pode ajudar muito a enxergar a sua real situação financeira familiar.
 
 **Excel
-:** Você pode baixar uma tabela de orçamento familiar para Excel gratuitamente e adequá-la às suas próprias necessidades.
+:** Você pode baixar uma planilha de orçamento familiar para Excel gratuitamente e adequá-la às suas próprias necessidades.
 
 **Aplicativos:** São uma boa opção para colocar todos os pagamentos imediatamente na memória do programa, basta selecionar o app que mais lhe convier. 
 
 Existem vários como CoinKeeper, Monefy, Money Lover, <a href="https://www.guiabolso.com.br" target="_blank" rel="noopener" rel="nofollow">GuiaBolso</a>, Organizze e muitos outros. Depois farei um artigo mostrando os melhores e explicando cada um.
 
-Agora vou lhe passar um guia passo a passo de como criar um orçamento familiar para o mês ou anos com base em modelos de planilhas do Excel que você pode ajustar com apenas alguns cliques, fazendo o download do documento.
+Agora vou lhe passar um guia com 4 passos simples de como criar um orçamento familiar para o mês ou ano com base em modelos de planilhas do Excel que você pode ajustar com apenas alguns cliques, após fazer o download do documento.
 
 ### Passo 1: definir metas
 
@@ -67,9 +67,61 @@ Não confunda mesquinhez com planejamento de custos. Estabeleça metas e aprenda
 2. A médio prazo - comprar um carro, uma viagem tão esperada para lugares interessantes. 
 3. Metas de longo prazo normalmente incluem planos de aposentadoria, financiamento da casa e faculdade dos filhos.
 
-<img src="/img/tabela-metas-familiar.png" alt="Metas orçamento familiar - Tabela" title="Metas orçamento familiar - Tabela" width="660px" height="361px">
+<img src="/img/tabela-metas-familiar.png" alt="Metas orçamento familiar - planilha" title="Metas orçamento familiar - planilha" width="660px" height="361px">
 
 Seja realista nos planos e calcule suas capacidades financeiras. Baixe a planilha para metas familiares e use-a como um guia.
 
-<a href="/baixar/metas-familia.xlsx" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a tabela de metas de orçamento familiar no Excel</b></button></a>
+<a href="/baixar/metas-familia.xlsx" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a planilha de metas de orçamento familiar no Excel</b></button></a>
+
+### Passo 2: Determinar as receitas e despesas do orçamento familiar
+
+É hora de olhar para a estrutura do orçamento familiar. Comece por selecionar uma lista de todas as fontes de rendimento: salários, pensões, aluguéis, trabalhos por fora e outras opções Que fazem parte do dinheiro da família.
+
+Divida os gastos em pagamentos fixos e variáveis. Preencha os campos de custos variáveis ​​e fixos na planilha mais completa que você vai baixar abaixo para gerenciar o orçamento familiar com base em sua própria experiência.
+
+A distribuição do orçamento deve levar em conta o tamanho da família, as condições de moradia e os desejos de todos os membros.
+
+Quanto mais detalhado for seus ganhos e gastos, melhor ficará o seu orçamento familiar. Dependendo do seu desejo, você pode adicionar, especificar uma lista ou reduzi-la, ampliando e combinando itens de despesas, basta fazer as alterações necessárias.
+
+<a href="/baixar/orcamento-familiar.xls" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a planilha completa de orçamento familiar no Excel</b></button></a>
+
+### Passo 3: acompanhar os gastos durante o mês
+
+Você precisa descobrir como e em que proporção o dinheiro é gasto. Vai demorar um a dois meses. Na planilha do Excel, que você pode baixar gratuitamente, comece a anotar as despesas gradualmente ajustando as categorias para si mesmo e verá que em pouco tempo, terá o controle total das finanças da sua família.
+
+Abaixo eu vou deixar outra planilha focada mais em detalhar os gastos mensais, desta forma você terá um controle maior de tudo que entra e sai do orçamento familiar.
+
+<a href="/baixar/controle financeiro mês a mês.xls" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a planilha orçamento mensal no Excel</b></button></a>
+
+O objetivo deste passo é obter uma imagem clara da sua situação financeira, visualizar seus custos e, na próximo passo, ajustar o orçamento.
+
+### Passo 4: Separe as necessidades dos desejos
+
+Quando as pessoas começam a registrar as despesas, descobrem que muito dinheiro "voa" para coisas completamente desnecessárias. Impulso e despesas não planejadas atingem seriamente o orçamento.
+
+Após completar a planilha com seus ganhos e gastos você terá uma visão mais ampla. Desta forma poderá cortar os gastos desnecessários, para ter uma vida financeira familiar mais tranquila.
+
+## Planejar orçamento familiar com renda irregular
+
+Nem todo mundo tem um emprego regular com pagamento todos os meses numa data certa. Isso não significa que você não pode criar um orçamento familiar; mas significa que você precisa planejar com mais detalhes.
+
+Calcule a renda média da família e anote todo dinheiro que entra durante o dia. Dessa forma, você terá um valor fixo no final do dia. 
+
+Isso também funciona, caso você faça muitas despesas durante o dia. Deixe tudo anotado para depois acrescentar na planilha somente o total.
+
+Nada complicado. Mesmo que você nunca tenha tentado mexer numa tabela do Excel, verá que é muito simples quando já se tem tudo no local.
+
+## Não se negue os prazeres 
+
+Observe que o modelo de planilha do Excel para download possui a coluna "Lazer". Não risque este item! Um orçamento muito rigoroso levará à frustração, estresse e perturbações. 
+
+Já fez dieta? Uma dieta rígida não funciona por muito tempo, o fracasso é inevitável e isso acontece quando você corta o lazer de uma família.
+
+### Conclusão
+
+Bem, você com o orçamento familiar pagará suas dívidas, saberá como planejar o capital por um mês e anos à frente e reservará dinheiro para necessidades inesperadas e pequenos sonhos. 
+
+E isso foi só o primeiro passo para uma vida financeiramente boa. Após colocar tudo em ordens, é hora de se concentrar em criar riqueza!
+
+
 
