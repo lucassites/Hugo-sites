@@ -1,5 +1,5 @@
 ---
-title: 'Como fazer um orçamento familiar '
+title: Como fazer um orçamento familiar e tabelas para download
 url: orcamento-familiar
 autores:
   - Lucas Freitas
@@ -71,5 +71,5 @@ Não confunda mesquinhez com planejamento de custos. Estabeleça metas e aprenda
 
 Seja realista nos planos e calcule suas capacidades financeiras. Baixe a planilha para metas familiares e use-a como um guia.
 
-<a href="/baixar/metas-familia.xlsx" rel="nofollow" target="_blank"><button class="clica mb3 w-100 w-auto-ns mb0-ns raise"><b>Baixe a tabela de metas de orçamento familiar no Excel</b></button></a>
+<a class="center" href="/baixar/metas-familia.xlsx" rel="nofollow" target="_blank"><button class="clica center w-auto-ns mb0-ns"><b>Baixe a tabela de metas de orçamento familiar no Excel</b></button></a>
 
