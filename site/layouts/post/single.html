@@ -8,8 +8,8 @@
   {{ if gt $index 0 }} & {{ end }}
   <a href="/autores/{{ urlize . }}">{{ . }}</a>
 {{ end }}
-   | {{ .Date.Format "02.01.2006" }}</p>
-      <p>{{ .ReadingTime }} minutos de leitura</p>
+   | Renovado dia {{ .Date.Format "02.01.2006" }}</p>
+      <p class="byline">{{ .ReadingTime }} minutos de leitura</p>
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
