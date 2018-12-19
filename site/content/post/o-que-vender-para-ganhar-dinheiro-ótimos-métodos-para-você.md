@@ -27,7 +27,9 @@ Avalie as coisas velhas que estão naquele 'quartinho da bagunça' e certamente 
 
 <img src="/img/revenda-antiguidades.png" alt="Revenda de antiguidades" title="Revenda de antiguidades" width="660px" height="237px">
 
-Dando um exemplo simples que aconteceu comigo. Meu pai me deu um monte de moedas antigas e nós nem ligávamos para isso, mas um certo dia bateu a curiosidade de olhar o valor de algumas no mercado. E aí que veio a surpresa para nós, algumas **valiam mais de R$:1.000 reais**, claro que a maioria valia só 20 ou 30, porém com essas mais valiosas já podemos levantar uma grana rápida para investir em outras coisas.
+Dando um exemplo simples que aconteceu comigo. Meu pai me deu um monte de moedas antigas e nós nem ligávamos para isso, mas um certo dia bateu a curiosidade de olhar o valor de algumas no mercado. 
+
+E aí que veio a surpresa para nós! Algumas **valiam mais de R$:1.000 reais**, claro que a maioria valia só 20 ou 30, porém com essas mais valiosas já podemos levantar uma grana rápida para investir em outras coisas.
 
 Alguns parentes seus podem ter relíquias guardadas, você pode simplesmente comprar e revender. Basta fazer uma breve pesquisa para saber o valor real e depois oferecer um valor sobre a peça. 
 
