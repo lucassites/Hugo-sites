@@ -3,7 +3,7 @@ title: Como fazer um orçamento familiar e planilhas para download
 url: orcamento-familiar
 autores:
   - Lucas Freitas
-date: 2018-12-13T23:01:03.105Z
+date: 2018-12-18T23:01:03.105Z
 description: >-
   Orçamento familiar lhe ajuda a descobrir metas de curto e longo prazo,
   evitando gastos com qualquer coisa. Assim, poderá economizar para as férias
