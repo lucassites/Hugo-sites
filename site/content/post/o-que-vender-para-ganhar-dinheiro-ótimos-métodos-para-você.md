@@ -11,7 +11,7 @@ image: /img/vender-ganhar-dinheiro.png
 tags:
   - Ganhar dinheiro
 type: post
-draft: true
+draft: false
 ---
 Nunca é tarde para aprender!  Se sua carreira está em um beco sem saída, você se sente sem esperança, então talvez seja hora de mudar radicalmente a vida.
 
@@ -40,3 +40,70 @@ Muitos vendem capas de telefone, outros vendem presentes incomuns e itens para c
 Caso você tenha interesse nesse mercado, eu recomendo fazer o curso Acadêmia do importador. Através dele você vai aprender tudo sobre esse negócio para para ganhar dinheiro importando.
 
 <center><a href="http://bit.ly/importar-7do2" rel="nofollow" target="_blank"><button class="clica mb3 w-100 w-auto-ns mb0-ns raise"><b>Mais sobre o curso Acadêmia do importador</b></button></a></center>
+
+## Prestação de serviços
+
+Todos nós podemos fazer algo importante para outras pessoas e essas habilidades podem ser facilmente vendidas. Se você fala outro idioma, então você pode ensinar aos outros. Ou, por exemplo, você sabe como consertar encanamentos, então por que não fazer isso por dinheiro?
+
+Hoje, mais e mais pessoas preferem trabalhar com um horário flexível. Qual a melhor maneira de regular o seu dia de trabalho? Com toda certeza é no setor de serviços, ganhando um bom dinheiro fornecendo seus serviços e escolhendo um horário melhor para trabalhar.
+
+## Como ganhar dinheiro com site ou blog
+
+Ganhar dinheiro na internet com site ou blog pode se tornar fácil quando você escolhe bem o seu nicho de mercado.
+
+Esta é uma das minhas atividades favoritas e, para mim, não é apenas renda, mas também um hobby. Este blog, no qual você está lendo, eu de bom grado escrevo e escrevo artigos para você, mas também ganho algum dinheiro indicando bons cursos. 
+
+Isso me gera uma comissão por cada venda e também pessoas gratas, pois sempre indico cursos de qualidade, que realmente vão fazer alguma diferença na vida de quem o fizer.
+
+Quando você tem um monte de leitores em seu blog, você pode facilmente ganhar dinheiro com publicidade, programas afiliados ou postando links e artigos pagos. Esta é apenas uma maneira de trabalhar para ganhar dinheiro online.
+
+Se você tem interesse nesse negócio, eu indico o **curso Afiliado Orgânico**. Ele vai te ensinar o passo a passo para trabalhar na internet, você irá aprender técnicas de vendas, tráfego e posicionamento nas principais redes sociais como Facebook, Youtube e Instagram. Além de aprender como ter um Blog que gera uma renda mensal.
+
+<center><a href="http://bit.ly/organico-7do2" rel="nofollow" target="_blank"><button class="clica mb3 w-100 w-auto-ns mb0-ns raise"><b>Mais sobre o curso Afiliado Orgânico</b></button></a></center>
+
+## Trabalhos paralelos adicionais
+
+Se você está trabalhando ou estudando e sua agenda permite que você faça um trabalho adicional, não perca esta oportunidade. Eu também, quando era estudante trabalhava para ganhar dinheiro.
+
+Existem muitas opções de trabalho em meio período, a dica do blog mesmo pode ser feita nas suas horas vagas no começo. Se você gosta de escrever, existem inúmeras oportunidades em blogs e sites para redatores.
+
+O importante é você otimizar o sue tempo e tentar ao máximo ganhar dinheiro com ele, pois "tempo é dinheiro".
+
+## Abra sua loja online
+
+Eu com 20 anos ganhei um bom dinheiro vendendo produtos da China, logo abri minha loja online. A loja online é um negócio bastante rentável, compensa rapidamente, requer um pequeno investimento inicial e é bastante simples na organização. 
+
+Em geral, você pode ganhar muito dinheiro! No começo, você pode trabalhar sozinho ou com seu cônjuge, como eu fiz. Quando as vendas aumentarem, você pode pensar em contratar funcionários.
+
+## Faça você mesmo
+
+Na continuação das vendas em lojas online e em blogs, vale a pena dizer que você pode fazer vários produtos com as próprias mãos e vender.
+
+Você também pode vender seus produtos caseiros na loja online, em redes sociais e em blogs. Muitas pessoas podem gostar do que você faz. Portanto, se sabe como fazer algo não perca tempo, pois esta é a sua maneira de ganhar dinheiro!
+
+E pra você que diz que não sabe fazer nada, eu indico o curso da Clarissa Costa. Ela ensina como ninguém a fazer os famosos doces Gourmet, além de mostrar como fazer sua marca e vender os produtos.
+
+<center><a href="http://bit.ly/doce-7do2" rel="nofollow" target="_blank"><button class="clica mb3 w-100 w-auto-ns mb0-ns raise"><b>Mais sobre o curso Doce Gourmet</b></button></a></center>
+
+## Vendendo os serviços de outra pessoa
+
+Se você não souber como fornecer seus serviços, mas souber como vender, poderá vender os serviços de outras pessoas e receber uma boa grana por isso. Você também pode oferecer infoprodutos de outras pessoas, o conhecido programa de afiliados. Esta é uma boa maneira de ganhar dinheiro!
+
+Isso é mais fácil se você tiver um site ou um blog, ou um grupo em redes sociais, ou se tiver alguma influência digital. Mas se você não tiver nada disso, não é problema. Basta postar esses serviços nas suas redes sociais e divulgar para conhecidos, se as vendas acontecerem nos seus links, você ganhará dinheiro.
+
+Eu recomendo a Monetizze, ela é justamente uma plataforma onde as pessoas postam seus serviços através de ebook's ou cursos. Você simplesmente faz seu cadastro e recomenda esses cursos para outras pessoas, assim como eu fiz em todo esse artigo.
+
+O bom da Monetizze é que lá você encontrará produtos físicos também, que podem ser vendidos na sua loja online ou para pessoas próximas a você!
+
+<center><a href="http://bit.ly/monetizze-7do2" rel="nofollow" target="_blank"><button class="clica mb3 w-100 w-auto-ns mb0-ns raise"><b>Mais sobre a Monetizze</b></button></a></center>
+
+### Conclusão
+
+**Tenha cuidado!** Se você está procurando maneiras de ganhar dinheiro na Internet, muitas vezes você se deparar com anúncios para ganhar dinheiro rápido, como pirâmides, esquemas de enriquecimento rápido e assim por diante. **Não acredite!** 
+
+Você percebeu que todas as dicas que eu passei aqui, só vão dar certo se houver um esforço da sua parte. Por conta disso, recomendei alguns cursos que vão apenas lhe capacitar para fazer isso.
+
+**Ligue o cérebro!** Somente sua criatividade ajudará você a ganhar dinheiro de forma rápida e fácil!
+
+**Nunca é tarde para aprender!**  O principal é não ficar quieto, mas constantemente seguindo em frente e fazendo, fazendo e fazendo. Então tudo vai dar certo para você! Pense mais amplamente, assuma riscos, crie seu negócio, teste nichos, mova-se e nunca fique parado.
+
