@@ -126,4 +126,36 @@ Bem, você com o orçamento familiar pagará suas dívidas, saberá como planeja
 E isso foi só o primeiro passo para uma vida financeiramente boa. Após colocar tudo em ordens, é hora de se concentrar em criar riqueza!
 
 
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Make</th>
+<th>Model</th>
+<th>Year</th>
+</tr>
+</thead>
 
+<tbody>
+<tr>
+<td>1</td>
+<td>Honda</td>
+<td>Accord</td>
+<td>2009</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Toyota</td>
+<td>Camry</td>
+<td>2012</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Hyundai</td>
+<td>Elantra</td>
+<td>2010</td>
+</tr>
+</tbody>
+</table>
