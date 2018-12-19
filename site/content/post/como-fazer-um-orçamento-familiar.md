@@ -29,7 +29,7 @@ Em vez de dividir as despesas familiares em 20 categorias diferentes, Você só 
 * 30% - gastos opcionais: entretenimento, ir a um café, cinema, etc .;
 * 20% vão para pagar empréstimos e dívidas, além de serem guardados como reserva.
 
-## Método 80/20
+## Método 80 / 20
 
 Uma variação do método anterior: 
 
