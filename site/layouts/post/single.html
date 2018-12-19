@@ -6,7 +6,7 @@
      <p class="byline">
     {{- range $index, $element := .Params.autores }}
   {{ if gt $index 0 }} & {{ end }}
-  <a href="/autores/{{ urlize . }}">{{ . }}</a>
+  <a href="/autores/{{ urlize . }}">class="tags"{{ . }}</a>
 {{ end }}
    | Renovado dia {{ .Date.Format "02.01.2006" }}</p>
       <p class="byline">{{ .ReadingTime }} minutos de leitura</p>
