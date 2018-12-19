@@ -37,5 +37,6 @@ Quase tudo é mais barato. Você pode simplesmente comprar lá e vender nos em m
 
 Muitos vendem capas de telefone, outros vendem presentes incomuns e itens para casa, e outros ganham muito vendendo roupas e iPhones.
 
-Caso você tenha interesse nesse mercado, eu recomendo fazer o curso Acadêmia do importador. Através dele você vai aprender tudo sobre esse mercado.
+Caso você tenha interesse nesse mercado, eu recomendo fazer o curso Acadêmia do importador. Através dele você vai aprender tudo sobre esse negócio para para ganhar dinheiro importando.
 
+<center><a href="http://bit.ly/importar-7do2" rel="nofollow" target="_blank"><button class="clica mb3 w-100 w-auto-ns mb0-ns raise"><b>Mais sobre o curso Acadêmia do importador</b></button></a></center>
