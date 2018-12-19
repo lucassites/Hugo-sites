@@ -17,7 +17,7 @@ Nunca é tarde para aprender!  Se sua carreira está em um beco sem saída, voc�
 
 Obter uma educação adicional ou fazer cursos de reciclagem, aprender algo novo, felizmente, hoje é fácil de fazer, mesmo sem sair de casa, através de treinamento online. Por conta disso, vou lhe dizer o que vender para ganhar dinheiro e também indicar alguns cursos que podem alavancar sua vida financeira.
 
-## Revenda de antiguidades
+## Venda de antiguidades
 
 Esta maneira de ganhar dinheiro realmente funciona, porque muitas pessoas não sabem o valor real dos produtos ou simplesmente vendem mais barato, a fim de se livrar rapidamente de uma ou outra antiguidade.
 
@@ -28,6 +28,10 @@ Avalie as coisas velhas que estão naquele 'quartinho da bagunça' e certamente 
 <img src="/img/revenda-antiguidades.png" alt="Revenda de antiguidades" title="Revenda de antiguidades" width="660px" height="237px">
 
 Dando um exemplo simples que aconteceu comigo. Meu pai me deu um monte de moedas antigas e nós nem ligávamos para isso, mas um certo dia bateu a curiosidade de olhar o valor de algumas no mercado. E aí que veio a surpresa para nós, algumas **valiam mais de R$:1.000 reais**, claro que a maioria valia só 20 ou 30, porém com essas mais valiosas já podemos levantar uma grana rápida para investir em outras coisas.
+
+Alguns parentes seus podem ter relíquias guardadas, você pode simplesmente comprar e revender. Basta fazer uma breve pesquisa para saber o valor real e depois oferecer um valor sobre a peça. 
+
+Outra forma é vender e depois dividir o lucro, eu dei o exemplo de um parente, mas você pode fazer isso com qualquer pessoa.
 
 ## Venda de mercadorias do exterior
 
@@ -106,4 +110,3 @@ Você percebeu que todas as dicas que eu passei aqui, só vão dar certo se houv
 **Ligue o cérebro!** Somente sua criatividade ajudará você a ganhar dinheiro de forma rápida e fácil!
 
 **Nunca é tarde para aprender!**  O principal é não ficar quieto, mas constantemente seguindo em frente e fazendo, fazendo e fazendo. Então tudo vai dar certo para você! Pense mais amplamente, assuma riscos, crie seu negócio, teste nichos, mova-se e nunca fique parado.
-
