@@ -1,8 +1,5 @@
 User-agent: *
 Disallow: /admin/
 Disallow: /404/
-Disallow: /tags/
-Disallow: /categorias/
-Disallow: /autores/
 
 Sitemap: https://7do2.eu.org/sitemap.xml
