@@ -40,7 +40,7 @@ Essas regras gerais podem e devem ser ajustadas, para se adequarem à sua situa�
 
 ## Método 3-6 meses
 
-Você deve ter em mãos ou no banco uma quantia suficiente para sua família viver de três a seis meses. 
+Você precisa ter em mãos ou no banco uma quantia suficiente para sua família viver de três a seis meses. 
 
 No caso de perder a sua fonte principal de ganho, acidente ou doença, a o método impedirá que você tome decisões desesperadas, dará a você a oportunidade de olhar para a situação com calma e encontrar maneiras para contornar o problema.
 
@@ -101,7 +101,7 @@ Quando as pessoas começam a registrar as despesas, descobrem que muito dinheiro
 
 Após completar a planilha com seus ganhos e gastos você terá uma visão mais ampla. Desta forma poderá cortar os gastos desnecessários, para ter uma vida financeira familiar mais tranquila.
 
-## Planejar orçamento familiar com renda irregular
+## Planejar orçamento familiar com renda irregular
 
 Nem todo mundo tem um emprego regular com pagamento todos os meses numa data certa. Isso não significa que você não pode criar um orçamento familiar; mas significa que você precisa planejar com mais detalhes.
 
@@ -113,7 +113,7 @@ Isso também funciona, caso você faça muitas despesas durante o dia. Deixe tud
 
 Nada complicado. Mesmo que você nunca tenha tentado mexer numa tabela do Excel, verá que é muito simples quando já se tem tudo no local.
 
-## Não negue os prazeres 
+## Não negue os prazeres
 
 Observe que o modelo de planilha do Excel para download possui a coluna "Lazer". Não risque este item! Um orçamento muito rigoroso levará à frustração, estresse e perturbações. 
 
@@ -124,4 +124,3 @@ Já fez dieta? Uma dieta rígida não funciona por muito tempo, o fracasso é in
 Bem, você com o orçamento familiar pagará suas dívidas, saberá como planejar o capital por um mês e anos à frente e reservará dinheiro para necessidades inesperadas e pequenos sonhos. 
 
 E isso foi só o primeiro passo para uma vida financeiramente boa. Após colocar tudo em ordens, é hora de se concentrar em criar riqueza!
-
