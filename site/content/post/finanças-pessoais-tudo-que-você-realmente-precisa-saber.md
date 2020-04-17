@@ -1,9 +1,9 @@
 ---
-title: 'Finanças pessoais: você precisa saber mais sobre isso hoje'
+title: "Finanças pessoais: você precisa saber mais sobre isso hoje"
 url: financas-pessoais
 autores:
   - Lucas Freitas
-date: 2018-12-08T18:50:45.704Z
+date: 2020-04-16T23:15:58.280Z
 description: >
   Finanças pessoais é a soma de todo o dinheiro que uma determinada pessoa tem.
   Incluindo dispositivos financeiros para obter objetivos relacionados ao
