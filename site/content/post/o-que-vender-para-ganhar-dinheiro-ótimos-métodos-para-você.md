@@ -1,12 +1,12 @@
 ---
-title: 'O que vender para ganhar dinheiro: ótimos métodos para você'
+title: "O que vender para ganhar dinheiro: ótimos métodos para você"
 url: vender-ganhar-dinheiro
 autores:
   - Lucas Freitas
-date: 2018-12-19T17:33:15.159Z
-description: >-
-  Neste artigo, darei várias maneiras diferentes de vender para ganhar dinheiro.
-  Todos os métodos abaixo funcionam muito bem, se forem bem aplicados por você.
+date: 2020-04-16T23:18:07.943Z
+description: Neste artigo, darei várias maneiras diferentes de vender para
+  ganhar dinheiro. Todos os métodos abaixo funcionam muito bem, se forem bem
+  aplicados por você.
 image: /img/vender-ganhar-dinheiro.png
 tags:
   - Ganhar dinheiro
