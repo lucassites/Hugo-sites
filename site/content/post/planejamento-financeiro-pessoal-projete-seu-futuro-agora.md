@@ -1,12 +1,11 @@
 ---
-title: 'Planejamento financeiro pessoal: projete seu futuro'
+title: "Planejamento financeiro pessoal: projete seu futuro"
 url: planejamento-financeiro-pessoal
 autores:
   - Lucas Freitas
-date: 2018-12-18T11:00:16.959Z
-description: >-
-  O planejamento financeiro pessoal é projetado para lhe fornecer um roteiro, o
-  que ajudará a entender a sua situação financeira atual.
+date: 2020-04-16T12:00:16.959Z
+description: O planejamento financeiro pessoal é projetado para lhe fornecer um
+  roteiro, o que ajudará a entender a sua situação financeira atual.
 image: /img/planejamento-financeiro-pessoal.png
 tags:
   - Finanças
